@@ -1,0 +1,24 @@
+# Publisher PDFs and supplementary files are never committed
+*.pdf
+*.docx
+*.doc
+papers/
+supp/
+Latest_Supp/
+uploads/
+
+# Large intermediates that can be rebuilt
+epcr/
+dart/
+bio/dl/
+__pycache__/
+*.pyc
+
+# Backups of the master file and the app
+*_pre*.json
+*_pre*.js
+*_pre*.html
+*_pre*.py
+
+# OS
+.DS_Store

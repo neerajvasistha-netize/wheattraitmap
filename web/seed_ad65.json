@@ -1,0 +1,1222 @@
+{
+"reports": [
+{
+"id": "S205-019",
+"cls": "MTA",
+"curation": "hand",
+"name": "M10592 (AUDPC)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M10592",
+"stat": "P 7.72e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M10592 chromosome NA (E1 7.72E-04); DArT tag aligned to RefSeq v1.0 1B 32,775,893 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 32.775893,
+"snpseq": [
+{
+"m": "M10592 (DArT 1088268|F|0--15:G>C)",
+"s": "TGCAGGAGCCGCGCCGCACAACTGCTCCAACATTTTCATCAAATAGCCCGAGATCGGAAGAGCGGTTCA"
+}
+],
+"chr": "1B",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait AUDPC; significant in E1 (P 7.72E-04); MAF 0.063. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 50 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 1B in 14 of 15 assemblies; position given is the SNP base (RefSeq v1.0 1B 32,775,893 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "1B",
+"peak": 34.951779,
+"flag": "tag_aligned",
+"qc": "DArT tag 34,951,745-34,951,794 bp (- strand), 0 mismatches over 50 bp; SNP at 34,951,779 bp"
+},
+"Alchemy": {
+"chr": "1B",
+"flag": "unmapped",
+"qc": "tag not found on 1B; nearest match 1A 13,586,731 bp with 1 mismatch (probably the homoeologous copy), not used"
+},
+"ArinaLrFor": {
+"chr": "1B",
+"peak": 30.051348,
+"flag": "tag_aligned",
+"qc": "DArT tag 30,051,333-30,051,382 bp (+ strand), 0 mismatches over 50 bp; SNP at 30,051,348 bp"
+},
+"Jagger": {
+"chr": "1B",
+"peak": 34.968425,
+"flag": "tag_aligned",
+"qc": "DArT tag 34,968,391-34,968,440 bp (- strand), 0 mismatches over 50 bp; SNP at 34,968,425 bp"
+},
+"Julius": {
+"chr": "1B",
+"peak": 32.193902,
+"flag": "tag_aligned",
+"qc": "DArT tag 32,193,868-32,193,917 bp (- strand), 0 mismatches over 50 bp; SNP at 32,193,902 bp"
+},
+"Kariega": {
+"chr": "1B",
+"peak": 39.870955,
+"flag": "tag_aligned",
+"qc": "DArT tag 39,870,921-39,870,970 bp (- strand), 0 mismatches over 50 bp; SNP at 39,870,955 bp"
+},
+"Lancer": {
+"chr": "1B",
+"peak": 32.974592,
+"flag": "tag_aligned",
+"qc": "DArT tag 32,974,558-32,974,607 bp (- strand), 0 mismatches over 50 bp; SNP at 32,974,592 bp"
+},
+"Landmark": {
+"chr": "1B",
+"peak": 30.838592,
+"flag": "tag_aligned",
+"qc": "DArT tag 30,838,558-30,838,607 bp (- strand), 0 mismatches over 50 bp; SNP at 30,838,592 bp"
+},
+"Mace": {
+"chr": "1B",
+"peak": 35.221345,
+"flag": "tag_aligned",
+"qc": "DArT tag 35,221,311-35,221,360 bp (- strand), 0 mismatches over 50 bp; SNP at 35,221,345 bp"
+},
+"Norin 61": {
+"chr": "1B",
+"peak": 34.063894,
+"flag": "tag_aligned",
+"qc": "DArT tag 34,063,860-34,063,909 bp (- strand), 1 mismatch over 50 bp; SNP at 34,063,894 bp; identical-quality copy also at 1B 34,078,620 bp"
+},
+"Paragon": {
+"chr": "1B",
+"peak": 36.060793,
+"flag": "tag_aligned",
+"qc": "DArT tag 36,060,759-36,060,808 bp (- strand), 0 mismatches over 50 bp; SNP at 36,060,793 bp"
+},
+"Renan": {
+"chr": "1B",
+"peak": 34.574008,
+"flag": "tag_aligned",
+"qc": "DArT tag 34,573,974-34,574,023 bp (- strand), 0 mismatches over 50 bp; SNP at 34,574,008 bp"
+},
+"SY Mattis": {
+"chr": "1B",
+"peak": 30.834875,
+"flag": "tag_aligned",
+"qc": "DArT tag 30,834,841-30,834,890 bp (- strand), 0 mismatches over 50 bp; SNP at 30,834,875 bp"
+},
+"Stanley": {
+"chr": "1B",
+"peak": 34.82148,
+"flag": "tag_aligned",
+"qc": "DArT tag 34,821,446-34,821,495 bp (- strand), 0 mismatches over 50 bp; SNP at 34,821,480 bp"
+}
+}
+},
+{
+"id": "S205-021",
+"cls": "MTA",
+"curation": "hand",
+"name": "M11870 (AUDPC)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M11870",
+"stat": "P 2.70e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M11870 chromosome NA (E4 2.70E-04); DArT tag aligned to RefSeq v1.0 7A 736,378,850 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 736.37885,
+"snpseq": [
+{
+"m": "M11870 (DArT 1111897|F|0--17:C>T)",
+"s": "TGCAGTTATCAACAATTCTTCCCTGATTGAATTCTACCCTGATCCAGCCGAGATCGGAAGAGCGGTTCA"
+}
+],
+"chr": "7A",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait AUDPC; significant in E4 (P 2.70E-04); MAF 0.157. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 50 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 7A in 12 of 15 assemblies; position given is the SNP base (RefSeq v1.0 7A 736,378,850 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "7A",
+"peak": 744.170356,
+"flag": "tag_aligned",
+"qc": "DArT tag 744,170,339-744,170,388 bp (+ strand), 1 mismatch over 50 bp; SNP at 744,170,356 bp"
+},
+"Alchemy": {
+"chr": "7A",
+"peak": 555.32678,
+"flag": "tag_aligned",
+"qc": "DArT tag 555,326,763-555,326,812 bp (+ strand), 0 mismatches over 50 bp; SNP at 555,326,780 bp"
+},
+"ArinaLrFor": {
+"chr": "7A",
+"peak": 755.798654,
+"flag": "tag_aligned",
+"qc": "DArT tag 755,798,622-755,798,671 bp (- strand), 0 mismatches over 50 bp; SNP at 755,798,654 bp"
+},
+"Jagger": {
+"chr": "7A",
+"flag": "unmapped",
+"qc": "tag not found (more than 3 mismatches)"
+},
+"Julius": {
+"chr": "7A",
+"peak": 745.57229,
+"flag": "tag_aligned",
+"qc": "DArT tag 745,572,273-745,572,322 bp (+ strand), 1 mismatch over 50 bp; SNP at 745,572,290 bp"
+},
+"Kariega": {
+"chr": "7A",
+"peak": 755.05005,
+"flag": "tag_aligned",
+"qc": "DArT tag 755,050,033-755,050,082 bp (+ strand), 1 mismatch over 50 bp; SNP at 755,050,050 bp"
+},
+"Lancer": {
+"chr": "7A",
+"peak": 734.245849,
+"flag": "tag_aligned",
+"qc": "DArT tag 734,245,832-734,245,881 bp (+ strand), 0 mismatches over 50 bp; SNP at 734,245,849 bp"
+},
+"Landmark": {
+"chr": "7A",
+"peak": 738.194758,
+"flag": "tag_aligned",
+"qc": "DArT tag 738,194,726-738,194,775 bp (- strand), 1 mismatch over 50 bp; SNP at 738,194,758 bp"
+},
+"Mace": {
+"chr": "7A",
+"peak": 728.049498,
+"flag": "tag_aligned",
+"qc": "DArT tag 728,049,466-728,049,515 bp (- strand), 0 mismatches over 50 bp; SNP at 728,049,498 bp"
+},
+"Norin 61": {
+"chr": "7A",
+"flag": "unmapped",
+"qc": "tag not found (more than 3 mismatches)"
+},
+"Paragon": {
+"chr": "7A",
+"peak": 759.036634,
+"flag": "tag_aligned",
+"qc": "DArT tag 759,036,617-759,036,666 bp (+ strand), 1 mismatch over 50 bp; SNP at 759,036,634 bp"
+},
+"Renan": {
+"chr": "7A",
+"peak": 745.949974,
+"flag": "tag_aligned",
+"qc": "DArT tag 745,949,957-745,950,006 bp (+ strand), 0 mismatches over 50 bp; SNP at 745,949,974 bp"
+},
+"SY Mattis": {
+"chr": "7A",
+"flag": "unmapped",
+"qc": "tag not found (more than 3 mismatches)"
+},
+"Stanley": {
+"chr": "7A",
+"peak": 741.023218,
+"flag": "tag_aligned",
+"qc": "DArT tag 741,023,186-741,023,235 bp (- strand), 1 mismatch over 50 bp; SNP at 741,023,218 bp"
+}
+}
+},
+{
+"id": "S205-022",
+"cls": "MTA",
+"curation": "hand",
+"name": "M976 (AUDPC)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M976",
+"stat": "P 5.54e-05",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M976 chromosome NA (E3 3.36E-04; E4 5.54E-05); DArT tag aligned to RefSeq v1.0 1A 323,192,097 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 323.192097,
+"snpseq": [
+{
+"m": "M976 (DArT 3023386|F|0--25:G>C)",
+"s": "TGCAGTTCCCGCCAGGGTTCAGGTTGACCAAGGAGTACCGAGATCGGAAGAGCGGTTCAGCAGGAATGC"
+}
+],
+"chr": "1A",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait AUDPC; significant in E3 (P 3.36E-04); (P E4 (P 5.54E-05); MAF 0.257. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 40 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 1A in 15 of 15 assemblies; position given is the SNP base (RefSeq v1.0 1A 323,192,097 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "1A",
+"peak": 324.79449,
+"flag": "tag_aligned",
+"qc": "DArT tag 324,794,476-324,794,515 bp (- strand), 0 mismatches over 40 bp; SNP at 324,794,490 bp"
+},
+"Alchemy": {
+"chr": "1A",
+"peak": 263.732091,
+"flag": "tag_aligned",
+"qc": "DArT tag 263,732,077-263,732,116 bp (- strand), 0 mismatches over 40 bp; SNP at 263,732,091 bp"
+},
+"ArinaLrFor": {
+"chr": "1A",
+"peak": 331.779921,
+"flag": "tag_aligned",
+"qc": "DArT tag 331,779,907-331,779,946 bp (- strand), 0 mismatches over 40 bp; SNP at 331,779,921 bp"
+},
+"Jagger": {
+"chr": "1A",
+"peak": 326.131681,
+"flag": "tag_aligned",
+"qc": "DArT tag 326,131,667-326,131,706 bp (- strand), 0 mismatches over 40 bp; SNP at 326,131,681 bp"
+},
+"Julius": {
+"chr": "1A",
+"peak": 320.318664,
+"flag": "tag_aligned",
+"qc": "DArT tag 320,318,650-320,318,689 bp (- strand), 0 mismatches over 40 bp; SNP at 320,318,664 bp"
+},
+"Kariega": {
+"chr": "1A",
+"peak": 337.599515,
+"flag": "tag_aligned",
+"qc": "DArT tag 337,599,501-337,599,540 bp (- strand), 0 mismatches over 40 bp; SNP at 337,599,515 bp"
+},
+"Lancer": {
+"chr": "1A",
+"peak": 326.436007,
+"flag": "tag_aligned",
+"qc": "DArT tag 326,435,993-326,436,032 bp (- strand), 0 mismatches over 40 bp; SNP at 326,436,007 bp"
+},
+"Landmark": {
+"chr": "1A",
+"peak": 322.495556,
+"flag": "tag_aligned",
+"qc": "DArT tag 322,495,542-322,495,581 bp (- strand), 0 mismatches over 40 bp; SNP at 322,495,556 bp"
+},
+"Mace": {
+"chr": "1A",
+"peak": 323.951851,
+"flag": "tag_aligned",
+"qc": "DArT tag 323,951,837-323,951,876 bp (- strand), 0 mismatches over 40 bp; SNP at 323,951,851 bp"
+},
+"Norin 61": {
+"chr": "1A",
+"peak": 325.27474,
+"flag": "tag_aligned",
+"qc": "DArT tag 325,274,726-325,274,765 bp (- strand), 0 mismatches over 40 bp; SNP at 325,274,740 bp"
+},
+"Paragon": {
+"chr": "1A",
+"peak": 272.451449,
+"flag": "tag_aligned",
+"qc": "DArT tag 272,451,424-272,451,463 bp (+ strand), 0 mismatches over 40 bp; SNP at 272,451,449 bp"
+},
+"Renan": {
+"chr": "1A",
+"peak": 321.592187,
+"flag": "tag_aligned",
+"qc": "DArT tag 321,592,173-321,592,212 bp (- strand), 0 mismatches over 40 bp; SNP at 321,592,187 bp"
+},
+"SY Mattis": {
+"chr": "1A",
+"peak": 330.738723,
+"flag": "tag_aligned",
+"qc": "DArT tag 330,738,709-330,738,748 bp (- strand), 0 mismatches over 40 bp; SNP at 330,738,723 bp"
+},
+"Stanley": {
+"chr": "1A",
+"peak": 324.66734,
+"flag": "tag_aligned",
+"qc": "DArT tag 324,667,326-324,667,365 bp (- strand), 0 mismatches over 40 bp; SNP at 324,667,340 bp"
+}
+}
+},
+{
+"id": "S205-023",
+"cls": "MTA",
+"curation": "hand",
+"name": "M7025 (AUDPC)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M7025",
+"stat": "P 7.40e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M7025 chromosome NA (BLUP 7.40E-04); DArT tag aligned to RefSeq v1.0 7D 5,376,644 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 5.376644,
+"snpseq": [
+{
+"m": "M7025 (DArT 3064746|F|0--34:T>C)",
+"s": "TGCAGACTGGTTTAGACCAGTCCGCGGACAGTGATGTTGAAGCCGAGATCGGAAGAGCGGTTCAGCAGG"
+}
+],
+"chr": "7D",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait AUDPC; significant in BLUP (P 7.40E-04); MAF 0.056. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 45 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 7D in 15 of 15 assemblies; position given is the SNP base (RefSeq v1.0 7D 5,376,644 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "7D",
+"peak": 5.734786,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,734,752-5,734,796 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,734,786 bp"
+},
+"Alchemy": {
+"chr": "7D",
+"peak": 3.897955,
+"flag": "tag_aligned",
+"qc": "DArT tag 3,897,921-3,897,965 bp (+ strand), 1 mismatch over 45 bp; SNP at 3,897,955 bp"
+},
+"ArinaLrFor": {
+"chr": "7D",
+"peak": 5.435284,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,435,250-5,435,294 bp (+ strand), 1 mismatch over 45 bp; SNP at 5,435,284 bp"
+},
+"Jagger": {
+"chr": "7D",
+"peak": 5.584002,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,583,968-5,584,012 bp (+ strand), 1 mismatch over 45 bp; SNP at 5,584,002 bp"
+},
+"Julius": {
+"chr": "7D",
+"peak": 5.89302,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,892,986-5,893,030 bp (+ strand), 1 mismatch over 45 bp; SNP at 5,893,020 bp"
+},
+"Kariega": {
+"chr": "7D",
+"peak": 5.759757,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,759,723-5,759,767 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,759,757 bp"
+},
+"Lancer": {
+"chr": "7D",
+"peak": 5.494079,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,494,045-5,494,089 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,494,079 bp"
+},
+"Landmark": {
+"chr": "7D",
+"peak": 5.426689,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,426,655-5,426,699 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,426,689 bp"
+},
+"Mace": {
+"chr": "7D",
+"peak": 5.622177,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,622,143-5,622,187 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,622,177 bp"
+},
+"Norin 61": {
+"chr": "7D",
+"peak": 5.086801,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,086,767-5,086,811 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,086,801 bp"
+},
+"Paragon": {
+"chr": "7D",
+"peak": 6.288777,
+"flag": "tag_aligned",
+"qc": "DArT tag 6,288,743-6,288,787 bp (+ strand), 1 mismatch over 45 bp; SNP at 6,288,777 bp"
+},
+"Renan": {
+"chr": "7D",
+"peak": 4.36442,
+"flag": "tag_aligned",
+"qc": "DArT tag 4,364,386-4,364,430 bp (+ strand), 0 mismatches over 45 bp; SNP at 4,364,420 bp"
+},
+"SY Mattis": {
+"chr": "7D",
+"peak": 5.953978,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,953,944-5,953,988 bp (+ strand), 1 mismatch over 45 bp; SNP at 5,953,978 bp"
+},
+"Stanley": {
+"chr": "7D",
+"peak": 5.4562,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,456,166-5,456,210 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,456,200 bp"
+}
+}
+},
+{
+"id": "S205-025",
+"cls": "MTA",
+"curation": "hand",
+"name": "M11338 (AUDPC)",
+"disease": "Spot blotch",
+"ref": "RefSeq v2.1",
+"marker": "M11338",
+"stat": "P 9.06e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M11338 chromosome NA (BLUP 9.06E-04); DArT tag aligned to RefSeq v2.1 7A 728,555,135 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 728.555135,
+"snpseq": [
+{
+"m": "M11338 (DArT 100016634|F|0--21:T>C)",
+"s": "TGCAGCACCTACTCGTGGCGGTGGACAGGTACGACCTCCGAGATCGGAAGAGCGGTTCAGCAGGAATGC"
+}
+],
+"chr": "7A",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait AUDPC; significant in BLUP (P 9.06E-04); MAF 0.460. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 40 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 7A in 13 of 15 assemblies; position given is the SNP base (RefSeq v1.0 places it on the unanchored chrUn at 83,577,041 bp, so the RefSeq v2.1 position 7A 728,555,135 bp is the record's position). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v1.0": {
+"chr": "Un",
+"peak": 83.577041,
+"flag": "tag_aligned",
+"qc": "DArT tag 83,577,020-83,577,059 bp (+ strand), 0 mismatches over 40 bp; SNP at 83,577,041 bp; unanchored chromosome (chrUn) in this assembly"
+},
+"RefSeq v2.1": {
+"chr": "7A",
+"peak": 728.555135,
+"flag": "tag_aligned",
+"qc": "DArT tag 728,555,114-728,555,153 bp (+ strand), 0 mismatches over 40 bp; SNP at 728,555,135 bp"
+},
+"Alchemy": {
+"chr": "7A",
+"peak": 592.820954,
+"flag": "tag_aligned",
+"qc": "DArT tag 592,820,933-592,820,972 bp (+ strand), 0 mismatches over 40 bp; SNP at 592,820,954 bp"
+},
+"ArinaLrFor": {
+"chr": "7A",
+"peak": 739.964881,
+"flag": "tag_aligned",
+"qc": "DArT tag 739,964,860-739,964,899 bp (+ strand), 0 mismatches over 40 bp; SNP at 739,964,881 bp"
+},
+"Jagger": {
+"chr": "7A",
+"peak": 730.72461,
+"flag": "tag_aligned",
+"qc": "DArT tag 730,724,589-730,724,628 bp (+ strand), 0 mismatches over 40 bp; SNP at 730,724,610 bp"
+},
+"Julius": {
+"chr": "7A",
+"peak": 730.779756,
+"flag": "tag_aligned",
+"qc": "DArT tag 730,779,735-730,779,774 bp (+ strand), 0 mismatches over 40 bp; SNP at 730,779,756 bp"
+},
+"Kariega": {
+"chr": "7A",
+"peak": 739.541181,
+"flag": "tag_aligned",
+"qc": "DArT tag 739,541,160-739,541,199 bp (+ strand), 0 mismatches over 40 bp; SNP at 739,541,181 bp"
+},
+"Lancer": {
+"chr": "7A",
+"peak": 719.734634,
+"flag": "tag_aligned",
+"qc": "DArT tag 719,734,613-719,734,652 bp (+ strand), 0 mismatches over 40 bp; SNP at 719,734,634 bp"
+},
+"Landmark": {
+"chr": "7A",
+"peak": 726.603938,
+"flag": "tag_aligned",
+"qc": "DArT tag 726,603,917-726,603,956 bp (+ strand), 0 mismatches over 40 bp; SNP at 726,603,938 bp"
+},
+"Mace": {
+"chr": "7A",
+"peak": 717.589691,
+"flag": "tag_aligned",
+"qc": "DArT tag 717,589,670-717,589,709 bp (+ strand), 0 mismatches over 40 bp; SNP at 717,589,691 bp"
+},
+"Norin 61": {
+"chr": "7A",
+"peak": 719.604969,
+"flag": "tag_aligned",
+"qc": "DArT tag 719,604,948-719,604,987 bp (+ strand), 0 mismatches over 40 bp; SNP at 719,604,969 bp"
+},
+"Paragon": {
+"chr": "7A",
+"peak": 742.920704,
+"flag": "tag_aligned",
+"qc": "DArT tag 742,920,683-742,920,722 bp (+ strand), 0 mismatches over 40 bp; SNP at 742,920,704 bp"
+},
+"Renan": {
+"chr": "7D",
+"peak": 635.084954,
+"flag": "other_chromosome",
+"qc": "DArT tag 635,084,933-635,084,972 bp (+ strand), 0 mismatches over 40 bp; SNP at 635,084,954 bp; exact match on 7D instead of 7A in this assembly"
+},
+"SY Mattis": {
+"chr": "7A",
+"peak": 721.905269,
+"flag": "tag_aligned",
+"qc": "DArT tag 721,905,248-721,905,287 bp (+ strand), 0 mismatches over 40 bp; SNP at 721,905,269 bp"
+},
+"Stanley": {
+"chr": "7A",
+"peak": 728.946456,
+"flag": "tag_aligned",
+"qc": "DArT tag 728,946,435-728,946,474 bp (+ strand), 0 mismatches over 40 bp; SNP at 728,946,456 bp"
+}
+}
+},
+{
+"id": "S205-026",
+"cls": "MTA",
+"curation": "hand",
+"name": "M8531 (IP)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M8531",
+"stat": "P 9.08e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M8531 chromosome NA (E2 9.08E-04); DArT tag aligned to RefSeq v1.0 6B 229,522,401 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 229.522401,
+"snpseq": [
+{
+"m": "M8531 (DArT 1091859|F|0--11:T>C)",
+"s": "TGCAGATCTTCTGTGCAAGGGACATTTTGCTGGTATGAGGAGACGTGGCCGAGATCGGAAGAGCGGTTC"
+}
+],
+"chr": "6B",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait incubation period; significant in E2 (P 9.08E-04); MAF 0.109. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 51 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 6B in 15 of 15 assemblies; position given is the SNP base (RefSeq v1.0 6B 229,522,401 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "6B",
+"peak": 235.600384,
+"flag": "tag_aligned",
+"qc": "DArT tag 235,600,345-235,600,395 bp (- strand), 1 mismatch over 51 bp; SNP at 235,600,384 bp"
+},
+"Alchemy": {
+"chr": "6B",
+"peak": 188.721528,
+"flag": "tag_aligned",
+"qc": "DArT tag 188,721,489-188,721,539 bp (- strand), 1 mismatch over 51 bp; SNP at 188,721,528 bp"
+},
+"ArinaLrFor": {
+"chr": "6B",
+"peak": 231.732198,
+"flag": "tag_aligned",
+"qc": "DArT tag 231,732,159-231,732,209 bp (- strand), 1 mismatch over 51 bp; SNP at 231,732,198 bp"
+},
+"Jagger": {
+"chr": "6B",
+"peak": 235.608486,
+"flag": "tag_aligned",
+"qc": "DArT tag 235,608,447-235,608,497 bp (- strand), 0 mismatches over 51 bp; SNP at 235,608,486 bp"
+},
+"Julius": {
+"chr": "6B",
+"peak": 236.664871,
+"flag": "tag_aligned",
+"qc": "DArT tag 236,664,832-236,664,882 bp (- strand), 1 mismatch over 51 bp; SNP at 236,664,871 bp"
+},
+"Kariega": {
+"chr": "6B",
+"peak": 239.066273,
+"flag": "tag_aligned",
+"qc": "DArT tag 239,066,234-239,066,284 bp (- strand), 0 mismatches over 51 bp; SNP at 239,066,273 bp"
+},
+"Lancer": {
+"chr": "6B",
+"peak": 224.937744,
+"flag": "tag_aligned",
+"qc": "DArT tag 224,937,705-224,937,755 bp (- strand), 0 mismatches over 51 bp; SNP at 224,937,744 bp"
+},
+"Landmark": {
+"chr": "6B",
+"peak": 234.845175,
+"flag": "tag_aligned",
+"qc": "DArT tag 234,845,136-234,845,186 bp (- strand), 1 mismatch over 51 bp; SNP at 234,845,175 bp"
+},
+"Mace": {
+"chr": "6B",
+"peak": 229.737978,
+"flag": "tag_aligned",
+"qc": "DArT tag 229,737,939-229,737,989 bp (- strand), 0 mismatches over 51 bp; SNP at 229,737,978 bp"
+},
+"Norin 61": {
+"chr": "6B",
+"peak": 227.649196,
+"flag": "tag_aligned",
+"qc": "DArT tag 227,649,157-227,649,207 bp (- strand), 1 mismatch over 51 bp; SNP at 227,649,196 bp"
+},
+"Paragon": {
+"chr": "6B",
+"peak": 239.754798,
+"flag": "tag_aligned",
+"qc": "DArT tag 239,754,759-239,754,809 bp (- strand), 0 mismatches over 51 bp; SNP at 239,754,798 bp"
+},
+"Renan": {
+"chr": "6B",
+"peak": 236.944795,
+"flag": "tag_aligned",
+"qc": "DArT tag 236,944,756-236,944,806 bp (- strand), 0 mismatches over 51 bp; SNP at 236,944,795 bp; identical-quality copy also at 6D 148,307,629 bp"
+},
+"SY Mattis": {
+"chr": "6B",
+"peak": 231.559941,
+"flag": "tag_aligned",
+"qc": "DArT tag 231,559,902-231,559,952 bp (- strand), 1 mismatch over 51 bp; SNP at 231,559,941 bp"
+},
+"Stanley": {
+"chr": "6B",
+"peak": 235.567072,
+"flag": "tag_aligned",
+"qc": "DArT tag 235,567,033-235,567,083 bp (- strand), 0 mismatches over 51 bp; SNP at 235,567,072 bp"
+}
+}
+},
+{
+"id": "S205-027",
+"cls": "MTA",
+"curation": "hand",
+"name": "M4837 (IP)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M4837",
+"stat": "P 1.86e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M4837 chromosome NA (E3 1.86E-04); DArT tag aligned to RefSeq v1.0 1A 559,780,854 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 559.780854,
+"snpseq": [
+{
+"m": "M4837 (DArT 3064684|F|0--37:T>C)",
+"s": "TGCAGGCTTCCCGCCGTCGTCCTCCCTCTCTTGCTAATGTGCCGAGATCGGAAGAGCGGTTCAGCAGGA"
+}
+],
+"chr": "1A",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait incubation period; significant in E3 (P 1.86E-04); MAF 0.224. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 44 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 1A in 14 of 15 assemblies; position given is the SNP base (RefSeq v1.0 1A 559,780,854 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "1A",
+"peak": 561.856018,
+"flag": "tag_aligned",
+"qc": "DArT tag 561,856,012-561,856,055 bp (- strand), 1 mismatch over 44 bp; SNP at 561,856,018 bp"
+},
+"Alchemy": {
+"chr": "1A",
+"peak": 453.718784,
+"flag": "tag_aligned",
+"qc": "DArT tag 453,718,778-453,718,821 bp (- strand), 0 mismatches over 44 bp; SNP at 453,718,784 bp"
+},
+"ArinaLrFor": {
+"chr": "1A",
+"peak": 567.966105,
+"flag": "tag_aligned",
+"qc": "DArT tag 567,966,068-567,966,111 bp (+ strand), 0 mismatches over 44 bp; SNP at 567,966,105 bp"
+},
+"Jagger": {
+"chr": "1A",
+"peak": 561.557913,
+"flag": "tag_aligned",
+"qc": "DArT tag 561,557,907-561,557,950 bp (- strand), 1 mismatch over 44 bp; SNP at 561,557,913 bp"
+},
+"Julius": {
+"chr": "1A",
+"peak": 556.595869,
+"flag": "tag_aligned",
+"qc": "DArT tag 556,595,863-556,595,906 bp (- strand), 1 mismatch over 44 bp; SNP at 556,595,869 bp"
+},
+"Kariega": {
+"chr": "1A",
+"peak": 573.557548,
+"flag": "tag_aligned",
+"qc": "DArT tag 573,557,511-573,557,554 bp (+ strand), 0 mismatches over 44 bp; SNP at 573,557,548 bp"
+},
+"Lancer": {
+"chr": "1A",
+"peak": 560.419085,
+"flag": "tag_aligned",
+"qc": "DArT tag 560,419,079-560,419,122 bp (- strand), 1 mismatch over 44 bp; SNP at 560,419,085 bp"
+},
+"Landmark": {
+"chr": "1A",
+"peak": 559.270225,
+"flag": "tag_aligned",
+"qc": "DArT tag 559,270,219-559,270,262 bp (- strand), 1 mismatch over 44 bp; SNP at 559,270,225 bp"
+},
+"Mace": {
+"chr": "1A",
+"flag": "unmapped",
+"qc": "tag not found (more than 3 mismatches)"
+},
+"Norin 61": {
+"chr": "1A",
+"peak": 559.712503,
+"flag": "tag_aligned",
+"qc": "DArT tag 559,712,497-559,712,540 bp (- strand), 1 mismatch over 44 bp; SNP at 559,712,503 bp"
+},
+"Paragon": {
+"chr": "1A",
+"peak": 36.126243,
+"flag": "tag_aligned",
+"qc": "DArT tag 36,126,237-36,126,280 bp (- strand), 0 mismatches over 44 bp; SNP at 36,126,243 bp"
+},
+"Renan": {
+"chr": "1A",
+"peak": 557.565326,
+"flag": "tag_aligned",
+"qc": "DArT tag 557,565,320-557,565,363 bp (- strand), 1 mismatch over 44 bp; SNP at 557,565,326 bp"
+},
+"SY Mattis": {
+"chr": "1A",
+"peak": 565.832983,
+"flag": "tag_aligned",
+"qc": "DArT tag 565,832,946-565,832,989 bp (+ strand), 0 mismatches over 44 bp; SNP at 565,832,983 bp"
+},
+"Stanley": {
+"chr": "1A",
+"peak": 561.696997,
+"flag": "tag_aligned",
+"qc": "DArT tag 561,696,991-561,697,034 bp (- strand), 0 mismatches over 44 bp; SNP at 561,696,997 bp"
+}
+}
+},
+{
+"id": "S205-029",
+"cls": "MTA",
+"curation": "hand",
+"name": "M9264 (IP)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M9264",
+"stat": "P 7.62e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M9264 chromosome NA (E3 7.62E-04); DArT tag aligned to RefSeq v1.0 6A 4,773,855 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 4.773855,
+"snpseq": [
+{
+"m": "M9264 (DArT 100000646|F|0--38:G>C)",
+"s": "TGCAGATTGAGCGAGTCGTTGGTATTTAAAAACAAAGGGCCGAGATCGGAAGAGCGGTTCAGCAGGAAT"
+}
+],
+"chr": "6A",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait incubation period; significant in E3 (P 7.62E-04); MAF 0.175. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 42 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 6A in 13 of 15 assemblies; position given is the SNP base (RefSeq v1.0 6A 4,773,855 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "6A",
+"peak": 6.076788,
+"flag": "tag_aligned",
+"qc": "DArT tag 6,076,785-6,076,826 bp (- strand), 0 mismatches over 42 bp; SNP at 6,076,788 bp"
+},
+"Alchemy": {
+"chr": "6A",
+"peak": 6.980977,
+"flag": "tag_aligned",
+"qc": "DArT tag 6,980,974-6,981,015 bp (- strand), 0 mismatches over 42 bp; SNP at 6,980,977 bp"
+},
+"ArinaLrFor": {
+"chr": "6A",
+"peak": 5.882517,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,882,514-5,882,555 bp (- strand), 1 mismatch over 42 bp; SNP at 5,882,517 bp"
+},
+"Jagger": {
+"chr": "6A",
+"peak": 4.476264,
+"flag": "tag_aligned",
+"qc": "DArT tag 4,476,261-4,476,302 bp (- strand), 0 mismatches over 42 bp; SNP at 4,476,264 bp"
+},
+"Julius": {
+"chr": "6A",
+"flag": "unmapped",
+"qc": "tag not found on 6A; nearest match 6B 12,682,606 bp with 3 mismatches (homoeologous copy), not used"
+},
+"Kariega": {
+"chr": "6A",
+"peak": 9.049706,
+"flag": "tag_aligned",
+"qc": "DArT tag 9,049,703-9,049,744 bp (- strand), 0 mismatches over 42 bp; SNP at 9,049,706 bp"
+},
+"Lancer": {
+"chr": "6A",
+"peak": 5.836383,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,836,380-5,836,421 bp (- strand), 0 mismatches over 42 bp; SNP at 5,836,383 bp"
+},
+"Landmark": {
+"chr": "6A",
+"peak": 5.470055,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,470,052-5,470,093 bp (- strand), 0 mismatches over 42 bp; SNP at 5,470,055 bp"
+},
+"Mace": {
+"chr": "6A",
+"peak": 11.217653,
+"flag": "tag_aligned",
+"qc": "DArT tag 11,217,615-11,217,656 bp (+ strand), 0 mismatches over 42 bp; SNP at 11,217,653 bp"
+},
+"Norin 61": {
+"chr": "6A",
+"peak": 5.075842,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,075,839-5,075,880 bp (- strand), 0 mismatches over 42 bp; SNP at 5,075,842 bp"
+},
+"Paragon": {
+"chr": "6A",
+"peak": 5.489349,
+"flag": "tag_aligned",
+"qc": "DArT tag 5,489,346-5,489,387 bp (- strand), 0 mismatches over 42 bp; SNP at 5,489,349 bp"
+},
+"Renan": {
+"chr": "6A",
+"flag": "unmapped",
+"qc": "tag not found on 6A; nearest match 6B 13,126,235 bp with 3 mismatches (homoeologous copy), not used"
+},
+"SY Mattis": {
+"chr": "6A",
+"peak": 4.165835,
+"flag": "tag_aligned",
+"qc": "DArT tag 4,165,832-4,165,873 bp (- strand), 0 mismatches over 42 bp; SNP at 4,165,835 bp"
+},
+"Stanley": {
+"chr": "6A",
+"peak": 4.937107,
+"flag": "tag_aligned",
+"qc": "DArT tag 4,937,104-4,937,145 bp (- strand), 0 mismatches over 42 bp; SNP at 4,937,107 bp"
+}
+}
+},
+{
+"id": "S205-030",
+"cls": "MTA",
+"curation": "hand",
+"name": "M12439 (IP)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M12439",
+"stat": "P 8.90e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M12439 chromosome NA (E4 8.90E-04); DArT tag aligned to RefSeq v1.0 1D 21,544,688 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 21.544688,
+"snpseq": [
+{
+"m": "M12439 (DArT 1272027|F|0--17:G>C)",
+"s": "TGCAGGCGCTTGCATAGGCGGCAGTTGAGCAGTAGCGGCGCGGCGGCGCTGCTAGTGGCCGAGATCGGA"
+}
+],
+"chr": "1D",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait incubation period; significant in E4 (P 8.90E-04); MAF 0.184. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 61 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 1D in 15 of 15 assemblies; position given is the SNP base (RefSeq v1.0 1D 21,544,688 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "1D",
+"peak": 23.694135,
+"flag": "tag_aligned",
+"qc": "DArT tag 23,694,092-23,694,152 bp (- strand), 1 mismatch over 61 bp; SNP at 23,694,135 bp"
+},
+"Alchemy": {
+"chr": "1D",
+"peak": 17.095936,
+"flag": "tag_aligned",
+"qc": "DArT tag 17,095,893-17,095,953 bp (- strand), 0 mismatches over 61 bp; SNP at 17,095,936 bp"
+},
+"ArinaLrFor": {
+"chr": "1D",
+"peak": 21.171757,
+"flag": "tag_aligned",
+"qc": "DArT tag 21,171,714-21,171,774 bp (- strand), 0 mismatches over 61 bp; SNP at 21,171,757 bp"
+},
+"Jagger": {
+"chr": "1D",
+"peak": 19.640088,
+"flag": "tag_aligned",
+"qc": "DArT tag 19,640,045-19,640,105 bp (- strand), 0 mismatches over 61 bp; SNP at 19,640,088 bp"
+},
+"Julius": {
+"chr": "1D",
+"peak": 21.151089,
+"flag": "tag_aligned",
+"qc": "DArT tag 21,151,046-21,151,106 bp (- strand), 0 mismatches over 61 bp; SNP at 21,151,089 bp"
+},
+"Kariega": {
+"chr": "1D",
+"peak": 25.068833,
+"flag": "tag_aligned",
+"qc": "DArT tag 25,068,790-25,068,850 bp (- strand), 0 mismatches over 61 bp; SNP at 25,068,833 bp"
+},
+"Lancer": {
+"chr": "1D",
+"peak": 21.196291,
+"flag": "tag_aligned",
+"qc": "DArT tag 21,196,248-21,196,308 bp (- strand), 0 mismatches over 61 bp; SNP at 21,196,291 bp"
+},
+"Landmark": {
+"chr": "1D",
+"peak": 22.91271,
+"flag": "tag_aligned",
+"qc": "DArT tag 22,912,667-22,912,727 bp (- strand), 0 mismatches over 61 bp; SNP at 22,912,710 bp"
+},
+"Mace": {
+"chr": "1D",
+"peak": 21.148695,
+"flag": "tag_aligned",
+"qc": "DArT tag 21,148,652-21,148,712 bp (- strand), 0 mismatches over 61 bp; SNP at 21,148,695 bp"
+},
+"Norin 61": {
+"chr": "1D",
+"peak": 21.957472,
+"flag": "tag_aligned",
+"qc": "DArT tag 21,957,429-21,957,489 bp (- strand), 0 mismatches over 61 bp; SNP at 21,957,472 bp"
+},
+"Paragon": {
+"chr": "1D",
+"peak": 23.1913,
+"flag": "tag_aligned",
+"qc": "DArT tag 23,191,257-23,191,317 bp (- strand), 0 mismatches over 61 bp; SNP at 23,191,300 bp"
+},
+"Renan": {
+"chr": "1D",
+"peak": 21.936877,
+"flag": "tag_aligned",
+"qc": "DArT tag 21,936,834-21,936,894 bp (- strand), 0 mismatches over 61 bp; SNP at 21,936,877 bp"
+},
+"SY Mattis": {
+"chr": "1D",
+"peak": 20.90663,
+"flag": "tag_aligned",
+"qc": "DArT tag 20,906,587-20,906,647 bp (- strand), 0 mismatches over 61 bp; SNP at 20,906,630 bp"
+},
+"Stanley": {
+"chr": "1D",
+"peak": 24.007975,
+"flag": "tag_aligned",
+"qc": "DArT tag 24,007,932-24,007,992 bp (- strand), 0 mismatches over 61 bp; SNP at 24,007,975 bp"
+}
+}
+},
+{
+"id": "S205-032",
+"cls": "MTA",
+"curation": "hand",
+"name": "M9994 (LN)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M9994",
+"stat": "P 4.57e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M9994 chromosome NA (E1 4.57E-04); DArT tag aligned to RefSeq v1.0 2A 769,631,212 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 769.631212,
+"snpseq": [
+{
+"m": "M9994 (DArT 3064365|F|0--14:G>C)",
+"s": "TGCAGGAGCAGCATGTGCATAAACAACTAAGTCAAGCTTCCCGAGATCGGAAGAGCGGTTCAGCAGGAA"
+}
+],
+"chr": "2A",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait lesion number; significant in E1 (P 4.57E-04); MAF 0.307. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 43 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 2A in 14 of 15 assemblies; position given is the SNP base (RefSeq v1.0 2A 769,631,212 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "2A",
+"peak": 777.461293,
+"flag": "tag_aligned",
+"qc": "DArT tag 777,461,279-777,461,321 bp (+ strand), 0 mismatches over 43 bp; SNP at 777,461,293 bp"
+},
+"Alchemy": {
+"chr": "2A",
+"flag": "unmapped",
+"qc": "tag not found (more than 3 mismatches)"
+},
+"ArinaLrFor": {
+"chr": "2A",
+"peak": 776.195932,
+"flag": "tag_aligned",
+"qc": "DArT tag 776,195,918-776,195,960 bp (+ strand), 1 mismatch over 43 bp; SNP at 776,195,932 bp"
+},
+"Jagger": {
+"chr": "2A",
+"peak": 796.054766,
+"flag": "tag_aligned",
+"qc": "DArT tag 796,054,752-796,054,794 bp (+ strand), 1 mismatch over 43 bp; SNP at 796,054,766 bp"
+},
+"Julius": {
+"chr": "2A",
+"peak": 784.001658,
+"flag": "tag_aligned",
+"qc": "DArT tag 784,001,644-784,001,686 bp (+ strand), 0 mismatches over 43 bp; SNP at 784,001,658 bp"
+},
+"Kariega": {
+"chr": "2A",
+"peak": 784.940528,
+"flag": "tag_aligned",
+"qc": "DArT tag 784,940,514-784,940,556 bp (+ strand), 1 mismatch over 43 bp; SNP at 784,940,528 bp"
+},
+"Lancer": {
+"chr": "2A",
+"peak": 768.708866,
+"flag": "tag_aligned",
+"qc": "DArT tag 768,708,852-768,708,894 bp (+ strand), 1 mismatch over 43 bp; SNP at 768,708,866 bp"
+},
+"Landmark": {
+"chr": "2A",
+"peak": 782.078353,
+"flag": "tag_aligned",
+"qc": "DArT tag 782,078,339-782,078,381 bp (+ strand), 0 mismatches over 43 bp; SNP at 782,078,353 bp"
+},
+"Mace": {
+"chr": "2A",
+"peak": 774.689284,
+"flag": "tag_aligned",
+"qc": "DArT tag 774,689,270-774,689,312 bp (+ strand), 1 mismatch over 43 bp; SNP at 774,689,284 bp"
+},
+"Norin 61": {
+"chr": "2A",
+"peak": 769.726067,
+"flag": "tag_aligned",
+"qc": "DArT tag 769,726,053-769,726,095 bp (+ strand), 0 mismatches over 43 bp; SNP at 769,726,067 bp"
+},
+"Paragon": {
+"chr": "2A",
+"peak": 8.468243,
+"flag": "tag_aligned",
+"qc": "DArT tag 8,468,215-8,468,257 bp (- strand), 0 mismatches over 43 bp; SNP at 8,468,243 bp"
+},
+"Renan": {
+"chr": "2A",
+"peak": 780.943869,
+"flag": "tag_aligned",
+"qc": "DArT tag 780,943,855-780,943,897 bp (+ strand), 1 mismatch over 43 bp; SNP at 780,943,869 bp"
+},
+"SY Mattis": {
+"chr": "2A",
+"peak": 777.593385,
+"flag": "tag_aligned",
+"qc": "DArT tag 777,593,371-777,593,413 bp (+ strand), 1 mismatch over 43 bp; SNP at 777,593,385 bp"
+},
+"Stanley": {
+"chr": "2A",
+"peak": 791.18427,
+"flag": "tag_aligned",
+"qc": "DArT tag 791,184,256-791,184,298 bp (+ strand), 1 mismatch over 43 bp; SNP at 791,184,270 bp"
+}
+}
+},
+{
+"id": "S205-034",
+"cls": "MTA",
+"curation": "hand",
+"name": "M9263 (LN)",
+"disease": "Spot blotch",
+"ref": "RefSeq v1.0",
+"marker": "M9263",
+"stat": "P 7.11e-04",
+"pve": "",
+"source": "Singh2023FPS",
+"evidence": "Table 2: M9263 chromosome NA (E3 7.11E-04); DArT tag aligned to RefSeq v1.0 1B 588,284,402 bp (SNP base)",
+"start": null,
+"end": null,
+"peak": 588.284402,
+"snpseq": [
+{
+"m": "M9263 (DArT 100001481|F|0--25:G>C)",
+"s": "TGCAGCTCGGAGAAGTGCAGGATGAGGAAATATCCCGAGATCGGAAGAGCGGTTCAGCAGGAATGCCGA"
+}
+],
+"chr": "1B",
+"grade": "B",
+"note": "303 CIMMYT spring wheat genotypes, DArT-seq (12,196 SNPs, 5,400 unassigned), four environments (E1 BHU Varanasi 2017-18, E2 BHU 2018-19, E3 BISA Pusa 2017-18, E4 BISA Pusa 2018-19) and BLUP; MTAs detected by four of five GWAS models (CMLM, MLMM, FarmCPU, BLINK; not SUPER), P < 0.001. Table 2 heads its P column \"-log10(P)\" but the values are P. Trait lesion number; significant in E3 (P 7.11E-04); MAF 0.441. DArT-seq key from the authors (M-code to clone ID and tag), Nov 2026 (ad59.py). Chromosome NA in Table 2 (not assigned by the vendor). Placed by aligning the DArT tag to the genome assemblies: the 69 bp tag was trimmed at the sequencing-adapter read-through (AGATCGGAAGAGC) to its 37 bp genomic part (PstI to MspI site), and matched end to end (up to 3 mismatches, no gaps) against IWGSC RefSeq v1.0, v2.1 and 13 pangenome cultivars (Ensembl Plants). Placed on 1B in 13 of 15 assemblies; position given is the SNP base (RefSeq v1.0 1B 588,284,402 bp). Each assembly's position comes from its own alignment, not from liftover. Grade B: position derived from the marker sequence, not printed in the paper. Tag alignment Nov 2026 (ad65.py).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "1B",
+"peak": 595.196353,
+"flag": "tag_aligned",
+"qc": "DArT tag 595,196,342-595,196,378 bp (- strand), 0 mismatches over 37 bp; SNP at 595,196,353 bp"
+},
+"Alchemy": {
+"chr": "1B",
+"flag": "unmapped",
+"qc": "tag not found (more than 3 mismatches)"
+},
+"ArinaLrFor": {
+"chr": "1B",
+"peak": 595.594007,
+"flag": "tag_aligned",
+"qc": "DArT tag 595,593,996-595,594,032 bp (- strand), 0 mismatches over 37 bp; SNP at 595,594,007 bp"
+},
+"Jagger": {
+"chr": "1B",
+"peak": 598.375267,
+"flag": "tag_aligned",
+"qc": "DArT tag 598,375,256-598,375,292 bp (- strand), 0 mismatches over 37 bp; SNP at 598,375,267 bp"
+},
+"Julius": {
+"chr": "1B",
+"peak": 602.595111,
+"flag": "tag_aligned",
+"qc": "DArT tag 602,595,100-602,595,136 bp (- strand), 0 mismatches over 37 bp; SNP at 602,595,111 bp"
+},
+"Kariega": {
+"chr": "1B",
+"peak": 604.008458,
+"flag": "tag_aligned",
+"qc": "DArT tag 604,008,447-604,008,483 bp (- strand), 0 mismatches over 37 bp; SNP at 604,008,458 bp"
+},
+"Lancer": {
+"chr": "1B",
+"peak": 589.893456,
+"flag": "tag_aligned",
+"qc": "DArT tag 589,893,445-589,893,481 bp (- strand), 0 mismatches over 37 bp; SNP at 589,893,456 bp"
+},
+"Landmark": {
+"chr": "1B",
+"peak": 598.516068,
+"flag": "tag_aligned",
+"qc": "DArT tag 598,516,057-598,516,093 bp (- strand), 0 mismatches over 37 bp; SNP at 598,516,068 bp"
+},
+"Mace": {
+"chr": "1B",
+"peak": 589.045674,
+"flag": "tag_aligned",
+"qc": "DArT tag 589,045,663-589,045,699 bp (- strand), 0 mismatches over 37 bp; SNP at 589,045,674 bp"
+},
+"Norin 61": {
+"chr": "1B",
+"peak": 590.712055,
+"flag": "tag_aligned",
+"qc": "DArT tag 590,712,044-590,712,080 bp (- strand), 0 mismatches over 37 bp; SNP at 590,712,055 bp"
+},
+"Paragon": {
+"chr": "1B",
+"peak": 613.925909,
+"flag": "tag_aligned",
+"qc": "DArT tag 613,925,898-613,925,934 bp (- strand), 0 mismatches over 37 bp; SNP at 613,925,909 bp"
+},
+"Renan": {
+"chr": "1B",
+"flag": "unmapped",
+"qc": "tag matches several sites equally well (1B 598,334,117 bp, 1B 611,096,467 bp, 0 mismatches); not placed"
+},
+"SY Mattis": {
+"chr": "1B",
+"peak": 588.640053,
+"flag": "tag_aligned",
+"qc": "DArT tag 588,640,042-588,640,078 bp (- strand), 0 mismatches over 37 bp; SNP at 588,640,053 bp"
+},
+"Stanley": {
+"chr": "1B",
+"peak": 605.726234,
+"flag": "tag_aligned",
+"qc": "DArT tag 605,726,223-605,726,259 bp (- strand), 0 mismatches over 37 bp; SNP at 605,726,234 bp"
+}
+}
+}
+],
+"sources": {}
+}

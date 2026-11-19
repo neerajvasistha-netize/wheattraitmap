@@ -1,0 +1,97 @@
+study_id	citation	disease	pmcid	doi	contrast	n_DEGs	direction_only	significance_column
+E001	Sharaf et al. (2023)	Wheat dwarf virus	PMC10054045	10.3390/v15030689	Table S4 · Table S4. Differentially expressed transcripts in the three genotypes under the WDV infection	17947	no	
+E002	Chen et al. (2023)	Fusarium crown rot	PMC10077658	10.1186/s12864-023-09268-7	Table S3 · Log₂ fold change	3521	no	
+E003	Child et al. (2023)	Septoria tritici blotch	PMC10502814	10.1111/mpp.13365	bck1_6to9_DEG	5296	no	adj.P.Val
+E003	Child et al. (2023)	Septoria tritici blotch	PMC10502814	10.1111/mpp.13365	cyr1_6to9_DEG	4702	no	adj.P.Val
+E003	Child et al. (2023)	Septoria tritici blotch	PMC10502814	10.1111/mpp.13365	IPO323_6to9_DEG	3461	no	adj.P.Val
+E003	Child et al. (2023)	Septoria tritici blotch	PMC10502814	10.1111/mpp.13365	cyr1_9dpi_DEG	1487	no	adj.P.Val
+E003	Child et al. (2023)	Septoria tritici blotch	PMC10502814	10.1111/mpp.13365	bck1_9dpi_DEG	358	no	adj.P.Val
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	A1589_T3_vs_T1 · Table S3-2 Statistical analyses identifying differentially expressed genes A1589_T3_vs_T1	19881	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	A8455_T3_vs_T1 · Table S3-5 Statistical analyses identifying differentially expressed genes A8455_T3_vs_T1	16685	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	Su3_vs_A1589_T1 · Table S3-13 Statistical analyses identifying differentially expressed genes Su3_vs_A1589_T1	16207	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	A1589_T2_vs_T1 · Table S3-1 Statistical analyses identifying differentially expressed genes A1589_T2_vs_T1	11542	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	Su3_T3_vs_T1 · Table S3-8 Statistical analyses identifying differentially expressed genes Su3_T3_vs_T1	11206	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	A8455_T3_vs_T2 · Table S3-6 Statistical analyses identifying differentially expressed genes A8455_T3_vs_T2	10585	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	Su3_vs_A8455_T1 · Table S3-16 Statistical analyses identifying differentially expressed genes Su3_vs_A8455_T1	10353	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	A1589_T3_vs_T2 · Table S3-3 Statistical analyses identifying differentially expressed genes A1589_T3_vs_T2	9854	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	Su3_vs_A1589_T2 · Table S3-14 Statistical analyses identifying differentially expressed genes Su3_vs_A1589_T2	9077	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	Su3_vs_A8455_T2 · Table S3-17 Statistical analyses identifying differentially expressed genes Su3_vs_A8455_T2	9034	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	A8455_T2_vs_T1 · Table S3-4 Statistical analyses identifying differentially expressed genes A8455_T2_vs_T1	7539	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	A1589_vs_A8455_T1 · Table S3-10 Statistical analyses identifying differentially expressed genes A1589_vs_A8455_T1	6753	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	Su3_vs_A1589_T3 · Table S3-15 Statistical analyses identifying differentially expressed genes Su3_vs_A1589_T3	6242	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	Su3_T3_vs_T2 · Table S3-9 Statistical analyses identifying differentially expressed genes Su3_T3_vs_T2	5834	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	Su3_vs_A8455_T3 · Table S3-18 Statistical analyses identifying differentially expressed genes Su3_vs_A8455_T3	5099	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	Su3_T2_vs_T1 · Table S3-7 Statistical analyses identifying differentially expressed genes Su3_T2_vs_T1	4741	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	A1589_vs_A8455_T2 · Table S3-11 Statistical analyses identifying differentially expressed genes A1589_vs_A8455_T2	1498	no	padj
+E004	Chen et al. (2023)	Fusarium head blight	PMC10504723	10.1186/s12870-023-04451-0	A1589_vs_A8455_T3 · Table S3-12 Statistical analyses identifying differentially expressed genes A1589_vs_A8455_T3	958	no	padj
+E005	Walker et al. (2023)	Fusarium head blight	PMC10794533	10.3389/fpls.2023.1299461	Table_3 · ALL SHARED	6382	no	adj p-val (Falcon)
+E006	Cerav et al. (2024)	Stripe rust	PMC11013425	10.3390/plants13070982	Table S5. RNA-seq all annot. · Supplementary Table S5. All genes annotation of RNA-seq · CK-1_In, CK-2_In, Infected-1_In	5328	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · Mock vs Dual	21658	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · Mock vs WSMV	19240	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · Mock vs Dual	18041	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · Mock vs Dual	16047	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · Mock vs WSMV	15140	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · Mock vs WSMV	13597	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · Mock vs TriMV	11715	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · TriMV vs Dual	10167	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · TriMV vs Dual	10047	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · TriMV vs Dual	9871	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · Mock vs TriMV	7379	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · Mock vs TriMV	7154	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · WSMV vs Dual	4672	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · WSMV vs Dual	3362	no	FDR
+E007	Nunna et al. (2024)	Wheat streak mosaic virus	PMC11750876	10.3389/fpls.2024.1504482	Contrast_Results · WSMV vs Dual	2689	no	FDR
+E008	Zhao et al. (2025)	Wheat yellow mosaic virus	PMC11855546	10.3390/ijms26041455	ijms-26-01455-s001	5614	no	padj.x
+E008	Zhao et al. (2025)	Wheat yellow mosaic virus	PMC11855546	10.3390/ijms26041455	ijms-26-01455-s001	4030	no	padj.y
+E008	Zhao et al. (2025)	Wheat yellow mosaic virus	PMC11855546	10.3390/ijms26041455	ijms-26-01455-s001 (direction only)	232	yes	
+E008	Zhao et al. (2025)	Wheat yellow mosaic virus	PMC11855546	10.3390/ijms26041455	ijms-26-01455-s001 (direction only)	167	yes	
+E008	Zhao et al. (2025)	Wheat yellow mosaic virus	PMC11855546	10.3390/ijms26041455	ijms-26-01455-s001 (direction only)	112	yes	
+E008	Zhao et al. (2025)	Wheat yellow mosaic virus	PMC11855546	10.3390/ijms26041455	ijms-26-01455-s001 (direction only)	42	yes	
+E009	Wang et al. (2025)	Leaf rust	PMC11897511	10.3389/fpls.2025.1537921	S10 · Table S10. The DEGs between LLr29NIL and HLr29NIL at 72 hpi. · LLr29NIL-72h, HLr29NIL-72h	31	no	
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	WY-0_vs_WY-5	5973	no	FDR_miR
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	WY-3_vs_WY-5	5678	no	FDR_miR
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	CS-0_vs_CS-5	5393	no	FDR_miR
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	CS-0_vs_CS-5 · DESeq2_log2FC	3012	no	Pvalue
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	CS-3_vs_CS-5 · DESeq2_log2FC	2240	no	Pvalue
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	WY-0_vs_WY-5 · DESeq2_log2FC	1526	no	Pvalue
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	WY-3_vs_WY-5 · DESeq2_log2FC	988	no	Pvalue
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	CS-0_vs_CS-3 · DESeq2_log2FC	742	no	Pvalue
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	CS-0_vs_CS-3	723	no	FDR_miR
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	WY-0_vs_WY-3	514	no	FDR_miR
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	WY-0_vs_WY-3 · DESeq2_log2FC	314	no	Pvalue
+E010	Wu et al. (2025)	Fusarium head blight	PMC11906714	10.3389/fpls.2025.1537605	WY-0_vs_WY-3 · DESeq2_log2FC	30	no	Pvalue
+E011	Rocher et al. (2025)	Fusarium head blight	PMC11911717	10.1111/ppl.70150	S2C. Validation by WheatOmics · WheatOmics_[Hpi96_MDC_Fg1-Hpi96_M].logFC	330	no	
+E012	Ferreira et al. (2025)	Tan spot	PMC11950905	10.1111/plb.13746	Hereward · DEGs	2586	no	
+E012	Ferreira et al. (2025)	Tan spot	PMC11950905	10.1111/plb.13746	Robigus · DEGs	268	no	
+E013	Hewitt et al. (2025)	Stem rust	PMC12119863	10.1038/s41467-025-60030-x	Suppl Fig. 13-15_Sr21 · unshrunk.logFC	1381	no	FDR
+E013	Hewitt et al. (2025)	Stem rust	PMC12119863	10.1038/s41467-025-60030-x	Suppl Fig. 13-15_Sr6 · unshrunk.logFC	1251	no	FDR
+E013	Hewitt et al. (2025)	Stem rust	PMC12119863	10.1038/s41467-025-60030-x	Suppl Fig. 13-15_Sr13 · unshrunk.logFC	836	no	FDR
+E014	Zhang et al. (2025)	Fusarium crown rot	PMC12280888	10.1073/pnas.2500029122	Dataset S2 · SI Appendix Dataset S2. Differentially expressed genes (DEGs) were identified in different days post-inocul	52	no	FCR_72h-VS-FCR_0h_padj
+E015	Sun et al. (2025)	Powdery mildew	PMC12359869	10.1186/s12870-025-07040-5	DOWN · Table S2 Differentially expressed genes (DEGs) between the resistant and susceptible bulks of Lxd-682 × Langdon (	1691	no	FDR
+E015	Sun et al. (2025)	Powdery mildew	PMC12359869	10.1186/s12870-025-07040-5	UP · Table S3 Differentially expressed genes (DEGs) between the resistant and susceptible bulks of Lsy-93 × Tainong 18 (	485	no	FDR
+E016	He et al. (2025)	Stripe rust	PMC12361011	10.1007/s44154-025-00248-3	Table S2 · DEGs in 3 hpi	3527	no	padj
+E017	He et al. (2025)	Fusarium head blight	PMC12576463	10.1111/pbi.70295	Table S1b · Table S1b DEGs on DD subgenome between HG116 and SY41 Using · > 2 and q < 0.05 as thresholds	4002	no	qval
+E017	He et al. (2025)	Fusarium head blight	PMC12576463	10.1111/pbi.70295	Table S1a · Table S1a DEGs on AABB subgenomes between HG116 and LDN Using · > 2 and q < 0.05 as thresholds	2768	no	qval
+E018	Rebaque et al. (2025)	Septoria tritici blotch	PMC12630491	10.1111/nph.70621	Supplementary Table S7 · Supporting Information Table S7. Up-regulated wheat genes in response to MLG43. Genes potential	2325	no	padj
+E018	Rebaque et al. (2025)	Septoria tritici blotch	PMC12630491	10.1111/nph.70621	Supplementary Table S8 · Supporting Information Table S8. Wheat genes specifically up-regulated in ZtGH45_OE-infected pl	382	no	padj
+E019	Lyu et al. (2026)	Wheat blast	PMC12999787	10.3389/fpls.2026.1776686	INF_36h vs. CK_36h	17301	no	q-value
+E019	Lyu et al. (2026)	Wheat blast	PMC12999787	10.3389/fpls.2026.1776686	INF_48h vs. CK_48h	15184	no	q-value
+E019	Lyu et al. (2026)	Wheat blast	PMC12999787	10.3389/fpls.2026.1776686	INF_24h vs. CK_24h	9162	no	q-value
+E019	Lyu et al. (2026)	Wheat blast	PMC12999787	10.3389/fpls.2026.1776686	INF_0h vs. CK_0h · Supplementary Table 2. DEGs in wheat during MoT infection. This table lists wheat genes showing diffe	96	no	q-value
+E020	Zhu et al. (2020)	Powdery mildew	PMC7268692	10.3389/fgene.2020.00474	Table S3 · Table S3 Differentially expressed genes (DEGs) with consistent expression difference between parents and bulk	3302	no	FDR
+E021	Benbow et al. (2020)	Septoria tritici blotch	PMC7469286	10.1186/s12870-020-02612-z	12870_2020_2612_MOESM2_ESM	562	no	padj
+E022	Ren et al. (2020)	Dwarf bunt	PMC7725808	10.1038/s41598-020-78628-0	Down-regulated (direction only)	10369	yes	
+E022	Ren et al. (2020)	Dwarf bunt	PMC7725808	10.1038/s41598-020-78628-0	Up-regulated · Table S2. Differentially expressed genes in T. controversa infected and mock plants.	8635	no	FDR
+E022	Ren et al. (2020)	Dwarf bunt	PMC7725808	10.1038/s41598-020-78628-0	41598_2020_78628_MOESM6_ESM · Table S5 Differential expression of WRKY transcription factors in plants after T. controve	42	no	FDR
+E023	Kolodziej et al. (2021)	Leaf rust	PMC7878491	10.1038/s41467-020-20777-x	c · Avirulent	7206	no	FDR
+E024	Li et al. (2021)	Spot blotch	PMC7994838	10.1038/s41598-021-86303-1	Table S6 · Supplementary Table S6 The differentially expressed genes (DEGs) in kernels of slightly and highly susceptibl	4920	no	FDR
+E025	Ma et al. (2021)	Powdery mildew	PMC8677838	10.3389/fpls.2021.764978	Table S4 · Table S4. Differentially expressed genes (DEGs) betwwen the resistance parent YD588 and susceptible parent Ya	8153	no	FDR
+E025	Ma et al. (2021)	Powdery mildew	PMC8677838	10.3389/fpls.2021.764978	Table S5 · 3 families of YD588 and Yannong 21 (YN21). · Susceptible bulk, Resistance bulk	2669	no	FDR
+E026	He et al. (2022)	Common bunt	PMC8902468	10.3389/fpls.2022.823907	All · Table S2. Differentially expressed genes in T. foetida infected and control plants.	6045	no	padj
+E026	He et al. (2022)	Common bunt	PMC8902468	10.3389/fpls.2022.823907	Table_5 · Table S5. Differential expression of MYB transcription factor in wheat tassels after T. foetida infection	14	no	pval
+E027	Konkin et al. (2022)	Fusarium head blight	PMC8944066	10.1186/s12864-022-08433-8	7EL transcripts within 27Mbp · Differential gene expression analysis	30	no	padj
+E028	Zhao et al. (2022)	Fusarium head blight	PMC9280303	10.3389/fpls.2022.926621	Table S2 DEG RR · CK_vs_R40	3146	no	
+E028	Zhao et al. (2022)	Fusarium head blight	PMC9280303	10.3389/fpls.2022.926621	Table S3 DEG SS · CK_vs_S66	2060	no	
+E029	Xie et al. (2022)	Wheat streak mosaic virus	PMC9285007	10.3389/fpls.2022.928949	Table S11	5110	no	
+E030	Yang et al. (2022)	Fusarium head blight	PMC9316857	10.3390/ijms23147982	Table S4 · Shaw 4dpi	17	no	FDR
+E031	Pang et al. (2022)	Stripe rust	PMC9456275	10.3390/ijms23179662	Table S4 · Supplementary Table S4 The DEGs within the region of QYr.sdau-1BL · log2Fold	54	no	qvalue

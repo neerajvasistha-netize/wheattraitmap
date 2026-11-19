@@ -1,0 +1,166 @@
+record	marker	dart_clone	assembly	chr	tag_start	tag_end	strand	mismatches	snp_position	flag	note
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	RefSeq v1.0	1B	32775859	32775908	-	0	32775893	tag_aligned	DArT tag 32,775,859-32,775,908 bp (- strand), 0 mismatches over 50 bp; SNP at 32,775,893 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	RefSeq v2.1	1B	34951745	34951794	-	0	34951779	tag_aligned	DArT tag 34,951,745-34,951,794 bp (- strand), 0 mismatches over 50 bp; SNP at 34,951,779 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Alchemy	1A	13586697	13586746	-	1	13586731	unmapped	tag not found on 1B; nearest match 1A 13,586,731 bp with 1 mismatch (probably the homoeologous copy), not used
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	ArinaLrFor	1B	30051333	30051382	+	0	30051348	tag_aligned	DArT tag 30,051,333-30,051,382 bp (+ strand), 0 mismatches over 50 bp; SNP at 30,051,348 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Jagger	1B	34968391	34968440	-	0	34968425	tag_aligned	DArT tag 34,968,391-34,968,440 bp (- strand), 0 mismatches over 50 bp; SNP at 34,968,425 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Julius	1B	32193868	32193917	-	0	32193902	tag_aligned	DArT tag 32,193,868-32,193,917 bp (- strand), 0 mismatches over 50 bp; SNP at 32,193,902 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Kariega	1B	39870921	39870970	-	0	39870955	tag_aligned	DArT tag 39,870,921-39,870,970 bp (- strand), 0 mismatches over 50 bp; SNP at 39,870,955 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Lancer	1B	32974558	32974607	-	0	32974592	tag_aligned	DArT tag 32,974,558-32,974,607 bp (- strand), 0 mismatches over 50 bp; SNP at 32,974,592 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Landmark	1B	30838558	30838607	-	0	30838592	tag_aligned	DArT tag 30,838,558-30,838,607 bp (- strand), 0 mismatches over 50 bp; SNP at 30,838,592 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Mace	1B	35221311	35221360	-	0	35221345	tag_aligned	DArT tag 35,221,311-35,221,360 bp (- strand), 0 mismatches over 50 bp; SNP at 35,221,345 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Norin 61	1B; 1B	34063860; 34078586	34063909; 34078635	-; -	1	34063894; 34078620	tag_aligned	DArT tag 34,063,860-34,063,909 bp (- strand), 1 mismatch over 50 bp; SNP at 34,063,894 bp; identical-quality copy also at 1B 34,078,620 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Paragon	1B	36060759	36060808	-	0	36060793	tag_aligned	DArT tag 36,060,759-36,060,808 bp (- strand), 0 mismatches over 50 bp; SNP at 36,060,793 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Renan	1B	34573974	34574023	-	0	34574008	tag_aligned	DArT tag 34,573,974-34,574,023 bp (- strand), 0 mismatches over 50 bp; SNP at 34,574,008 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	SY Mattis	1B	30834841	30834890	-	0	30834875	tag_aligned	DArT tag 30,834,841-30,834,890 bp (- strand), 0 mismatches over 50 bp; SNP at 30,834,875 bp
+S205-019	M10592	M10592 (DArT 1088268|F|0--15:G>C)	Stanley	1B	34821446	34821495	-	0	34821480	tag_aligned	DArT tag 34,821,446-34,821,495 bp (- strand), 0 mismatches over 50 bp; SNP at 34,821,480 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	RefSeq v1.0	7A	736378833	736378882	+	1	736378850	tag_aligned	DArT tag 736,378,833-736,378,882 bp (+ strand), 1 mismatch over 50 bp; SNP at 736,378,850 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	RefSeq v2.1	7A	744170339	744170388	+	1	744170356	tag_aligned	DArT tag 744,170,339-744,170,388 bp (+ strand), 1 mismatch over 50 bp; SNP at 744,170,356 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Alchemy	7A	555326763	555326812	+	0	555326780	tag_aligned	DArT tag 555,326,763-555,326,812 bp (+ strand), 0 mismatches over 50 bp; SNP at 555,326,780 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	ArinaLrFor	7A	755798622	755798671	-	0	755798654	tag_aligned	DArT tag 755,798,622-755,798,671 bp (- strand), 0 mismatches over 50 bp; SNP at 755,798,654 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Jagger							unmapped	tag not found (more than 3 mismatches)
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Julius	7A	745572273	745572322	+	1	745572290	tag_aligned	DArT tag 745,572,273-745,572,322 bp (+ strand), 1 mismatch over 50 bp; SNP at 745,572,290 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Kariega	7A	755050033	755050082	+	1	755050050	tag_aligned	DArT tag 755,050,033-755,050,082 bp (+ strand), 1 mismatch over 50 bp; SNP at 755,050,050 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Lancer	7A	734245832	734245881	+	0	734245849	tag_aligned	DArT tag 734,245,832-734,245,881 bp (+ strand), 0 mismatches over 50 bp; SNP at 734,245,849 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Landmark	7A	738194726	738194775	-	1	738194758	tag_aligned	DArT tag 738,194,726-738,194,775 bp (- strand), 1 mismatch over 50 bp; SNP at 738,194,758 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Mace	7A	728049466	728049515	-	0	728049498	tag_aligned	DArT tag 728,049,466-728,049,515 bp (- strand), 0 mismatches over 50 bp; SNP at 728,049,498 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Norin 61							unmapped	tag not found (more than 3 mismatches)
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Paragon	7A	759036617	759036666	+	1	759036634	tag_aligned	DArT tag 759,036,617-759,036,666 bp (+ strand), 1 mismatch over 50 bp; SNP at 759,036,634 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Renan	7A	745949957	745950006	+	0	745949974	tag_aligned	DArT tag 745,949,957-745,950,006 bp (+ strand), 0 mismatches over 50 bp; SNP at 745,949,974 bp
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	SY Mattis							unmapped	tag not found (more than 3 mismatches)
+S205-021	M11870	M11870 (DArT 1111897|F|0--17:C>T)	Stanley	7A	741023186	741023235	-	1	741023218	tag_aligned	DArT tag 741,023,186-741,023,235 bp (- strand), 1 mismatch over 50 bp; SNP at 741,023,218 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	RefSeq v1.0	1A	323192083	323192122	-	0	323192097	tag_aligned	DArT tag 323,192,083-323,192,122 bp (- strand), 0 mismatches over 40 bp; SNP at 323,192,097 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	RefSeq v2.1	1A	324794476	324794515	-	0	324794490	tag_aligned	DArT tag 324,794,476-324,794,515 bp (- strand), 0 mismatches over 40 bp; SNP at 324,794,490 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Alchemy	1A	263732077	263732116	-	0	263732091	tag_aligned	DArT tag 263,732,077-263,732,116 bp (- strand), 0 mismatches over 40 bp; SNP at 263,732,091 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	ArinaLrFor	1A	331779907	331779946	-	0	331779921	tag_aligned	DArT tag 331,779,907-331,779,946 bp (- strand), 0 mismatches over 40 bp; SNP at 331,779,921 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Jagger	1A	326131667	326131706	-	0	326131681	tag_aligned	DArT tag 326,131,667-326,131,706 bp (- strand), 0 mismatches over 40 bp; SNP at 326,131,681 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Julius	1A	320318650	320318689	-	0	320318664	tag_aligned	DArT tag 320,318,650-320,318,689 bp (- strand), 0 mismatches over 40 bp; SNP at 320,318,664 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Kariega	1A	337599501	337599540	-	0	337599515	tag_aligned	DArT tag 337,599,501-337,599,540 bp (- strand), 0 mismatches over 40 bp; SNP at 337,599,515 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Lancer	1A	326435993	326436032	-	0	326436007	tag_aligned	DArT tag 326,435,993-326,436,032 bp (- strand), 0 mismatches over 40 bp; SNP at 326,436,007 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Landmark	1A	322495542	322495581	-	0	322495556	tag_aligned	DArT tag 322,495,542-322,495,581 bp (- strand), 0 mismatches over 40 bp; SNP at 322,495,556 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Mace	1A	323951837	323951876	-	0	323951851	tag_aligned	DArT tag 323,951,837-323,951,876 bp (- strand), 0 mismatches over 40 bp; SNP at 323,951,851 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Norin 61	1A	325274726	325274765	-	0	325274740	tag_aligned	DArT tag 325,274,726-325,274,765 bp (- strand), 0 mismatches over 40 bp; SNP at 325,274,740 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Paragon	1A	272451424	272451463	+	0	272451449	tag_aligned	DArT tag 272,451,424-272,451,463 bp (+ strand), 0 mismatches over 40 bp; SNP at 272,451,449 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Renan	1A	321592173	321592212	-	0	321592187	tag_aligned	DArT tag 321,592,173-321,592,212 bp (- strand), 0 mismatches over 40 bp; SNP at 321,592,187 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	SY Mattis	1A	330738709	330738748	-	0	330738723	tag_aligned	DArT tag 330,738,709-330,738,748 bp (- strand), 0 mismatches over 40 bp; SNP at 330,738,723 bp
+S205-022	M976	M976 (DArT 3023386|F|0--25:G>C)	Stanley	1A	324667326	324667365	-	0	324667340	tag_aligned	DArT tag 324,667,326-324,667,365 bp (- strand), 0 mismatches over 40 bp; SNP at 324,667,340 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	RefSeq v1.0	7D	5376610	5376654	+	0	5376644	tag_aligned	DArT tag 5,376,610-5,376,654 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,376,644 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	RefSeq v2.1	7D	5734752	5734796	+	0	5734786	tag_aligned	DArT tag 5,734,752-5,734,796 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,734,786 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Alchemy	7D	3897921	3897965	+	1	3897955	tag_aligned	DArT tag 3,897,921-3,897,965 bp (+ strand), 1 mismatch over 45 bp; SNP at 3,897,955 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	ArinaLrFor	7D	5435250	5435294	+	1	5435284	tag_aligned	DArT tag 5,435,250-5,435,294 bp (+ strand), 1 mismatch over 45 bp; SNP at 5,435,284 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Jagger	7D	5583968	5584012	+	1	5584002	tag_aligned	DArT tag 5,583,968-5,584,012 bp (+ strand), 1 mismatch over 45 bp; SNP at 5,584,002 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Julius	7D	5892986	5893030	+	1	5893020	tag_aligned	DArT tag 5,892,986-5,893,030 bp (+ strand), 1 mismatch over 45 bp; SNP at 5,893,020 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Kariega	7D	5759723	5759767	+	0	5759757	tag_aligned	DArT tag 5,759,723-5,759,767 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,759,757 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Lancer	7D	5494045	5494089	+	0	5494079	tag_aligned	DArT tag 5,494,045-5,494,089 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,494,079 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Landmark	7D	5426655	5426699	+	0	5426689	tag_aligned	DArT tag 5,426,655-5,426,699 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,426,689 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Mace	7D	5622143	5622187	+	0	5622177	tag_aligned	DArT tag 5,622,143-5,622,187 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,622,177 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Norin 61	7D	5086767	5086811	+	0	5086801	tag_aligned	DArT tag 5,086,767-5,086,811 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,086,801 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Paragon	7D	6288743	6288787	+	1	6288777	tag_aligned	DArT tag 6,288,743-6,288,787 bp (+ strand), 1 mismatch over 45 bp; SNP at 6,288,777 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Renan	7D	4364386	4364430	+	0	4364420	tag_aligned	DArT tag 4,364,386-4,364,430 bp (+ strand), 0 mismatches over 45 bp; SNP at 4,364,420 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	SY Mattis	7D	5953944	5953988	+	1	5953978	tag_aligned	DArT tag 5,953,944-5,953,988 bp (+ strand), 1 mismatch over 45 bp; SNP at 5,953,978 bp
+S205-023	M7025	M7025 (DArT 3064746|F|0--34:T>C)	Stanley	7D	5456166	5456210	+	0	5456200	tag_aligned	DArT tag 5,456,166-5,456,210 bp (+ strand), 0 mismatches over 45 bp; SNP at 5,456,200 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	RefSeq v1.0	Un	83577020	83577059	+	0	83577041	tag_aligned	DArT tag 83,577,020-83,577,059 bp (+ strand), 0 mismatches over 40 bp; SNP at 83,577,041 bp; unanchored chromosome (chrUn) in this assembly
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	RefSeq v2.1	7A	728555114	728555153	+	0	728555135	tag_aligned	DArT tag 728,555,114-728,555,153 bp (+ strand), 0 mismatches over 40 bp; SNP at 728,555,135 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Alchemy	7A	592820933	592820972	+	0	592820954	tag_aligned	DArT tag 592,820,933-592,820,972 bp (+ strand), 0 mismatches over 40 bp; SNP at 592,820,954 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	ArinaLrFor	7A	739964860	739964899	+	0	739964881	tag_aligned	DArT tag 739,964,860-739,964,899 bp (+ strand), 0 mismatches over 40 bp; SNP at 739,964,881 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Jagger	7A	730724589	730724628	+	0	730724610	tag_aligned	DArT tag 730,724,589-730,724,628 bp (+ strand), 0 mismatches over 40 bp; SNP at 730,724,610 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Julius	7A	730779735	730779774	+	0	730779756	tag_aligned	DArT tag 730,779,735-730,779,774 bp (+ strand), 0 mismatches over 40 bp; SNP at 730,779,756 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Kariega	7A	739541160	739541199	+	0	739541181	tag_aligned	DArT tag 739,541,160-739,541,199 bp (+ strand), 0 mismatches over 40 bp; SNP at 739,541,181 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Lancer	7A	719734613	719734652	+	0	719734634	tag_aligned	DArT tag 719,734,613-719,734,652 bp (+ strand), 0 mismatches over 40 bp; SNP at 719,734,634 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Landmark	7A	726603917	726603956	+	0	726603938	tag_aligned	DArT tag 726,603,917-726,603,956 bp (+ strand), 0 mismatches over 40 bp; SNP at 726,603,938 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Mace	7A	717589670	717589709	+	0	717589691	tag_aligned	DArT tag 717,589,670-717,589,709 bp (+ strand), 0 mismatches over 40 bp; SNP at 717,589,691 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Norin 61	7A	719604948	719604987	+	0	719604969	tag_aligned	DArT tag 719,604,948-719,604,987 bp (+ strand), 0 mismatches over 40 bp; SNP at 719,604,969 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Paragon	7A	742920683	742920722	+	0	742920704	tag_aligned	DArT tag 742,920,683-742,920,722 bp (+ strand), 0 mismatches over 40 bp; SNP at 742,920,704 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Renan	7D	635084933	635084972	+	0	635084954	other_chromosome	DArT tag 635,084,933-635,084,972 bp (+ strand), 0 mismatches over 40 bp; SNP at 635,084,954 bp; exact match on 7D instead of 7A in this assembly
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	SY Mattis	7A	721905248	721905287	+	0	721905269	tag_aligned	DArT tag 721,905,248-721,905,287 bp (+ strand), 0 mismatches over 40 bp; SNP at 721,905,269 bp
+S205-025	M11338	M11338 (DArT 100016634|F|0--21:T>C)	Stanley	7A	728946435	728946474	+	0	728946456	tag_aligned	DArT tag 728,946,435-728,946,474 bp (+ strand), 0 mismatches over 40 bp; SNP at 728,946,456 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	RefSeq v1.0	6B	229522362	229522412	-	1	229522401	tag_aligned	DArT tag 229,522,362-229,522,412 bp (- strand), 1 mismatch over 51 bp; SNP at 229,522,401 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	RefSeq v2.1	6B	235600345	235600395	-	1	235600384	tag_aligned	DArT tag 235,600,345-235,600,395 bp (- strand), 1 mismatch over 51 bp; SNP at 235,600,384 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Alchemy	6B	188721489	188721539	-	1	188721528	tag_aligned	DArT tag 188,721,489-188,721,539 bp (- strand), 1 mismatch over 51 bp; SNP at 188,721,528 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	ArinaLrFor	6B	231732159	231732209	-	1	231732198	tag_aligned	DArT tag 231,732,159-231,732,209 bp (- strand), 1 mismatch over 51 bp; SNP at 231,732,198 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Jagger	6B	235608447	235608497	-	0	235608486	tag_aligned	DArT tag 235,608,447-235,608,497 bp (- strand), 0 mismatches over 51 bp; SNP at 235,608,486 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Julius	6B	236664832	236664882	-	1	236664871	tag_aligned	DArT tag 236,664,832-236,664,882 bp (- strand), 1 mismatch over 51 bp; SNP at 236,664,871 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Kariega	6B	239066234	239066284	-	0	239066273	tag_aligned	DArT tag 239,066,234-239,066,284 bp (- strand), 0 mismatches over 51 bp; SNP at 239,066,273 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Lancer	6B	224937705	224937755	-	0	224937744	tag_aligned	DArT tag 224,937,705-224,937,755 bp (- strand), 0 mismatches over 51 bp; SNP at 224,937,744 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Landmark	6B	234845136	234845186	-	1	234845175	tag_aligned	DArT tag 234,845,136-234,845,186 bp (- strand), 1 mismatch over 51 bp; SNP at 234,845,175 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Mace	6B	229737939	229737989	-	0	229737978	tag_aligned	DArT tag 229,737,939-229,737,989 bp (- strand), 0 mismatches over 51 bp; SNP at 229,737,978 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Norin 61	6B	227649157	227649207	-	1	227649196	tag_aligned	DArT tag 227,649,157-227,649,207 bp (- strand), 1 mismatch over 51 bp; SNP at 227,649,196 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Paragon	6B	239754759	239754809	-	0	239754798	tag_aligned	DArT tag 239,754,759-239,754,809 bp (- strand), 0 mismatches over 51 bp; SNP at 239,754,798 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Renan	6B; 6D	236944756; 148307590	236944806; 148307640	-; -	0	236944795; 148307629	tag_aligned	DArT tag 236,944,756-236,944,806 bp (- strand), 0 mismatches over 51 bp; SNP at 236,944,795 bp; identical-quality copy also at 6D 148,307,629 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	SY Mattis	6B	231559902	231559952	-	1	231559941	tag_aligned	DArT tag 231,559,902-231,559,952 bp (- strand), 1 mismatch over 51 bp; SNP at 231,559,941 bp
+S205-026	M8531	M8531 (DArT 1091859|F|0--11:T>C)	Stanley	6B	235567033	235567083	-	0	235567072	tag_aligned	DArT tag 235,567,033-235,567,083 bp (- strand), 0 mismatches over 51 bp; SNP at 235,567,072 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	RefSeq v1.0	1A	559780848	559780891	-	1	559780854	tag_aligned	DArT tag 559,780,848-559,780,891 bp (- strand), 1 mismatch over 44 bp; SNP at 559,780,854 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	RefSeq v2.1	1A	561856012	561856055	-	1	561856018	tag_aligned	DArT tag 561,856,012-561,856,055 bp (- strand), 1 mismatch over 44 bp; SNP at 561,856,018 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Alchemy	1A	453718778	453718821	-	0	453718784	tag_aligned	DArT tag 453,718,778-453,718,821 bp (- strand), 0 mismatches over 44 bp; SNP at 453,718,784 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	ArinaLrFor	1A	567966068	567966111	+	0	567966105	tag_aligned	DArT tag 567,966,068-567,966,111 bp (+ strand), 0 mismatches over 44 bp; SNP at 567,966,105 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Jagger	1A	561557907	561557950	-	1	561557913	tag_aligned	DArT tag 561,557,907-561,557,950 bp (- strand), 1 mismatch over 44 bp; SNP at 561,557,913 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Julius	1A	556595863	556595906	-	1	556595869	tag_aligned	DArT tag 556,595,863-556,595,906 bp (- strand), 1 mismatch over 44 bp; SNP at 556,595,869 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Kariega	1A	573557511	573557554	+	0	573557548	tag_aligned	DArT tag 573,557,511-573,557,554 bp (+ strand), 0 mismatches over 44 bp; SNP at 573,557,548 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Lancer	1A	560419079	560419122	-	1	560419085	tag_aligned	DArT tag 560,419,079-560,419,122 bp (- strand), 1 mismatch over 44 bp; SNP at 560,419,085 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Landmark	1A	559270219	559270262	-	1	559270225	tag_aligned	DArT tag 559,270,219-559,270,262 bp (- strand), 1 mismatch over 44 bp; SNP at 559,270,225 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Mace							unmapped	tag not found (more than 3 mismatches)
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Norin 61	1A	559712497	559712540	-	1	559712503	tag_aligned	DArT tag 559,712,497-559,712,540 bp (- strand), 1 mismatch over 44 bp; SNP at 559,712,503 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Paragon	1A	36126237	36126280	-	0	36126243	tag_aligned	DArT tag 36,126,237-36,126,280 bp (- strand), 0 mismatches over 44 bp; SNP at 36,126,243 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Renan	1A	557565320	557565363	-	1	557565326	tag_aligned	DArT tag 557,565,320-557,565,363 bp (- strand), 1 mismatch over 44 bp; SNP at 557,565,326 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	SY Mattis	1A	565832946	565832989	+	0	565832983	tag_aligned	DArT tag 565,832,946-565,832,989 bp (+ strand), 0 mismatches over 44 bp; SNP at 565,832,983 bp
+S205-027	M4837	M4837 (DArT 3064684|F|0--37:T>C)	Stanley	1A	561696991	561697034	-	0	561696997	tag_aligned	DArT tag 561,696,991-561,697,034 bp (- strand), 0 mismatches over 44 bp; SNP at 561,696,997 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	RefSeq v1.0	6A	4773852	4773893	-	0	4773855	tag_aligned	DArT tag 4,773,852-4,773,893 bp (- strand), 0 mismatches over 42 bp; SNP at 4,773,855 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	RefSeq v2.1	6A	6076785	6076826	-	0	6076788	tag_aligned	DArT tag 6,076,785-6,076,826 bp (- strand), 0 mismatches over 42 bp; SNP at 6,076,788 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Alchemy	6A	6980974	6981015	-	0	6980977	tag_aligned	DArT tag 6,980,974-6,981,015 bp (- strand), 0 mismatches over 42 bp; SNP at 6,980,977 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	ArinaLrFor	6A	5882514	5882555	-	1	5882517	tag_aligned	DArT tag 5,882,514-5,882,555 bp (- strand), 1 mismatch over 42 bp; SNP at 5,882,517 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Jagger	6A	4476261	4476302	-	0	4476264	tag_aligned	DArT tag 4,476,261-4,476,302 bp (- strand), 0 mismatches over 42 bp; SNP at 4,476,264 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Julius	6B	12682603	12682644	-	3	12682606	unmapped	tag not found on 6A; nearest match 6B 12,682,606 bp with 3 mismatches (homoeologous copy), not used
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Kariega	6A	9049703	9049744	-	0	9049706	tag_aligned	DArT tag 9,049,703-9,049,744 bp (- strand), 0 mismatches over 42 bp; SNP at 9,049,706 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Lancer	6A	5836380	5836421	-	0	5836383	tag_aligned	DArT tag 5,836,380-5,836,421 bp (- strand), 0 mismatches over 42 bp; SNP at 5,836,383 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Landmark	6A	5470052	5470093	-	0	5470055	tag_aligned	DArT tag 5,470,052-5,470,093 bp (- strand), 0 mismatches over 42 bp; SNP at 5,470,055 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Mace	6A	11217615	11217656	+	0	11217653	tag_aligned	DArT tag 11,217,615-11,217,656 bp (+ strand), 0 mismatches over 42 bp; SNP at 11,217,653 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Norin 61	6A	5075839	5075880	-	0	5075842	tag_aligned	DArT tag 5,075,839-5,075,880 bp (- strand), 0 mismatches over 42 bp; SNP at 5,075,842 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Paragon	6A	5489346	5489387	-	0	5489349	tag_aligned	DArT tag 5,489,346-5,489,387 bp (- strand), 0 mismatches over 42 bp; SNP at 5,489,349 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Renan	6B	13126232	13126273	-	3	13126235	unmapped	tag not found on 6A; nearest match 6B 13,126,235 bp with 3 mismatches (homoeologous copy), not used
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	SY Mattis	6A	4165832	4165873	-	0	4165835	tag_aligned	DArT tag 4,165,832-4,165,873 bp (- strand), 0 mismatches over 42 bp; SNP at 4,165,835 bp
+S205-029	M9264	M9264 (DArT 100000646|F|0--38:G>C)	Stanley	6A	4937104	4937145	-	0	4937107	tag_aligned	DArT tag 4,937,104-4,937,145 bp (- strand), 0 mismatches over 42 bp; SNP at 4,937,107 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	RefSeq v1.0	1D	21544645	21544705	-	1	21544688	tag_aligned	DArT tag 21,544,645-21,544,705 bp (- strand), 1 mismatch over 61 bp; SNP at 21,544,688 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	RefSeq v2.1	1D	23694092	23694152	-	1	23694135	tag_aligned	DArT tag 23,694,092-23,694,152 bp (- strand), 1 mismatch over 61 bp; SNP at 23,694,135 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Alchemy	1D	17095893	17095953	-	0	17095936	tag_aligned	DArT tag 17,095,893-17,095,953 bp (- strand), 0 mismatches over 61 bp; SNP at 17,095,936 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	ArinaLrFor	1D	21171714	21171774	-	0	21171757	tag_aligned	DArT tag 21,171,714-21,171,774 bp (- strand), 0 mismatches over 61 bp; SNP at 21,171,757 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Jagger	1D	19640045	19640105	-	0	19640088	tag_aligned	DArT tag 19,640,045-19,640,105 bp (- strand), 0 mismatches over 61 bp; SNP at 19,640,088 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Julius	1D	21151046	21151106	-	0	21151089	tag_aligned	DArT tag 21,151,046-21,151,106 bp (- strand), 0 mismatches over 61 bp; SNP at 21,151,089 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Kariega	1D	25068790	25068850	-	0	25068833	tag_aligned	DArT tag 25,068,790-25,068,850 bp (- strand), 0 mismatches over 61 bp; SNP at 25,068,833 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Lancer	1D	21196248	21196308	-	0	21196291	tag_aligned	DArT tag 21,196,248-21,196,308 bp (- strand), 0 mismatches over 61 bp; SNP at 21,196,291 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Landmark	1D	22912667	22912727	-	0	22912710	tag_aligned	DArT tag 22,912,667-22,912,727 bp (- strand), 0 mismatches over 61 bp; SNP at 22,912,710 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Mace	1D	21148652	21148712	-	0	21148695	tag_aligned	DArT tag 21,148,652-21,148,712 bp (- strand), 0 mismatches over 61 bp; SNP at 21,148,695 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Norin 61	1D	21957429	21957489	-	0	21957472	tag_aligned	DArT tag 21,957,429-21,957,489 bp (- strand), 0 mismatches over 61 bp; SNP at 21,957,472 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Paragon	1D	23191257	23191317	-	0	23191300	tag_aligned	DArT tag 23,191,257-23,191,317 bp (- strand), 0 mismatches over 61 bp; SNP at 23,191,300 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Renan	1D	21936834	21936894	-	0	21936877	tag_aligned	DArT tag 21,936,834-21,936,894 bp (- strand), 0 mismatches over 61 bp; SNP at 21,936,877 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	SY Mattis	1D	20906587	20906647	-	0	20906630	tag_aligned	DArT tag 20,906,587-20,906,647 bp (- strand), 0 mismatches over 61 bp; SNP at 20,906,630 bp
+S205-030	M12439	M12439 (DArT 1272027|F|0--17:G>C)	Stanley	1D	24007932	24007992	-	0	24007975	tag_aligned	DArT tag 24,007,932-24,007,992 bp (- strand), 0 mismatches over 61 bp; SNP at 24,007,975 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	RefSeq v1.0	2A	769631184	769631226	-	0	769631212	tag_aligned	DArT tag 769,631,184-769,631,226 bp (- strand), 0 mismatches over 43 bp; SNP at 769,631,212 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	RefSeq v2.1	2A	777461279	777461321	+	0	777461293	tag_aligned	DArT tag 777,461,279-777,461,321 bp (+ strand), 0 mismatches over 43 bp; SNP at 777,461,293 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Alchemy							unmapped	tag not found (more than 3 mismatches)
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	ArinaLrFor	2A	776195918	776195960	+	1	776195932	tag_aligned	DArT tag 776,195,918-776,195,960 bp (+ strand), 1 mismatch over 43 bp; SNP at 776,195,932 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Jagger	2A	796054752	796054794	+	1	796054766	tag_aligned	DArT tag 796,054,752-796,054,794 bp (+ strand), 1 mismatch over 43 bp; SNP at 796,054,766 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Julius	2A	784001644	784001686	+	0	784001658	tag_aligned	DArT tag 784,001,644-784,001,686 bp (+ strand), 0 mismatches over 43 bp; SNP at 784,001,658 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Kariega	2A	784940514	784940556	+	1	784940528	tag_aligned	DArT tag 784,940,514-784,940,556 bp (+ strand), 1 mismatch over 43 bp; SNP at 784,940,528 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Lancer	2A	768708852	768708894	+	1	768708866	tag_aligned	DArT tag 768,708,852-768,708,894 bp (+ strand), 1 mismatch over 43 bp; SNP at 768,708,866 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Landmark	2A	782078339	782078381	+	0	782078353	tag_aligned	DArT tag 782,078,339-782,078,381 bp (+ strand), 0 mismatches over 43 bp; SNP at 782,078,353 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Mace	2A	774689270	774689312	+	1	774689284	tag_aligned	DArT tag 774,689,270-774,689,312 bp (+ strand), 1 mismatch over 43 bp; SNP at 774,689,284 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Norin 61	2A	769726053	769726095	+	0	769726067	tag_aligned	DArT tag 769,726,053-769,726,095 bp (+ strand), 0 mismatches over 43 bp; SNP at 769,726,067 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Paragon	2A	8468215	8468257	-	0	8468243	tag_aligned	DArT tag 8,468,215-8,468,257 bp (- strand), 0 mismatches over 43 bp; SNP at 8,468,243 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Renan	2A	780943855	780943897	+	1	780943869	tag_aligned	DArT tag 780,943,855-780,943,897 bp (+ strand), 1 mismatch over 43 bp; SNP at 780,943,869 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	SY Mattis	2A	777593371	777593413	+	1	777593385	tag_aligned	DArT tag 777,593,371-777,593,413 bp (+ strand), 1 mismatch over 43 bp; SNP at 777,593,385 bp
+S205-032	M9994	M9994 (DArT 3064365|F|0--14:G>C)	Stanley	2A	791184256	791184298	+	1	791184270	tag_aligned	DArT tag 791,184,256-791,184,298 bp (+ strand), 1 mismatch over 43 bp; SNP at 791,184,270 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	RefSeq v1.0	1B	588284391	588284427	-	0	588284402	tag_aligned	DArT tag 588,284,391-588,284,427 bp (- strand), 0 mismatches over 37 bp; SNP at 588,284,402 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	RefSeq v2.1	1B	595196342	595196378	-	0	595196353	tag_aligned	DArT tag 595,196,342-595,196,378 bp (- strand), 0 mismatches over 37 bp; SNP at 595,196,353 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Alchemy							unmapped	tag not found (more than 3 mismatches)
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	ArinaLrFor	1B	595593996	595594032	-	0	595594007	tag_aligned	DArT tag 595,593,996-595,594,032 bp (- strand), 0 mismatches over 37 bp; SNP at 595,594,007 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Jagger	1B	598375256	598375292	-	0	598375267	tag_aligned	DArT tag 598,375,256-598,375,292 bp (- strand), 0 mismatches over 37 bp; SNP at 598,375,267 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Julius	1B	602595100	602595136	-	0	602595111	tag_aligned	DArT tag 602,595,100-602,595,136 bp (- strand), 0 mismatches over 37 bp; SNP at 602,595,111 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Kariega	1B	604008447	604008483	-	0	604008458	tag_aligned	DArT tag 604,008,447-604,008,483 bp (- strand), 0 mismatches over 37 bp; SNP at 604,008,458 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Lancer	1B	589893445	589893481	-	0	589893456	tag_aligned	DArT tag 589,893,445-589,893,481 bp (- strand), 0 mismatches over 37 bp; SNP at 589,893,456 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Landmark	1B	598516057	598516093	-	0	598516068	tag_aligned	DArT tag 598,516,057-598,516,093 bp (- strand), 0 mismatches over 37 bp; SNP at 598,516,068 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Mace	1B	589045663	589045699	-	0	589045674	tag_aligned	DArT tag 589,045,663-589,045,699 bp (- strand), 0 mismatches over 37 bp; SNP at 589,045,674 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Norin 61	1B	590712044	590712080	-	0	590712055	tag_aligned	DArT tag 590,712,044-590,712,080 bp (- strand), 0 mismatches over 37 bp; SNP at 590,712,055 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Paragon	1B	613925898	613925934	-	0	613925909	tag_aligned	DArT tag 613,925,898-613,925,934 bp (- strand), 0 mismatches over 37 bp; SNP at 613,925,909 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Renan	1B; 1B	598334106; 611096456	598334142; 611096492	-; -	0	598334117; 611096467	unmapped	tag matches several sites equally well (1B 598,334,117 bp, 1B 611,096,467 bp, 0 mismatches); not placed
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	SY Mattis	1B	588640042	588640078	-	0	588640053	tag_aligned	DArT tag 588,640,042-588,640,078 bp (- strand), 0 mismatches over 37 bp; SNP at 588,640,053 bp
+S205-034	M9263	M9263 (DArT 100001481|F|0--25:G>C)	Stanley	1B	605726223	605726259	-	0	605726234	tag_aligned	DArT tag 605,726,223-605,726,259 bp (- strand), 0 mismatches over 37 bp; SNP at 605,726,234 bp

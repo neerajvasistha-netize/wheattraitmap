@@ -1,0 +1,265 @@
+{
+"reports": [
+{
+"id": "NK0001",
+"cls": "DG",
+"curation": "hand",
+"name": "Yr34",
+"disease": "Stripe rust",
+"chr": "5A",
+"source": "Bariana2006TAG",
+"marker": "Xgwm410.2, B1 (TraesCS5A02G542800)",
+"pve": "",
+"stat": "",
+"evidence": "Fig. 1 and Results: gene order Xgwm595 – Xgwm6a – Xgwm291 – Xgwm410.2 – B1 – Yr34; Yr34 12.2 cM distal to the awn inhibitor B1 (WAWHT2046/Carnamah DH, n = 116)",
+"start": 700.825,
+"end": 713.328,
+"peak": null,
+"ref": "RefSeq v2.1",
+"grade": "B",
+"note": "Seedling (IT 23C) and adult-plant (10R-MR) stripe rust resistance from WAWHT2046 (donor AUS22857), originally YrWA. All SSRs map proximal to B1; Yr34 is distal to B1 (12.2 cM), so it lies between the cloned B1 gene (TraesCS5A02G542800, 700.825 Mb on RefSeq v2.1; 698.529 Mb on v1.0) and the distal end of 5AL. The interval runs from B1 to the last annotated gene of 5A (713.328 Mb). Hand-curated from the original paper, Nov 2026 (ad63). Supersedes V2238 and K0214, which placed Yr34 at the proximal marker Xgwm410.",
+"asm": {
+"RefSeq v2.1": {
+"chr": "5A",
+"start": 700.825,
+"end": 713.328,
+"flag": "as_reported"
+},
+"RefSeq v1.0": {
+"chr": "5A",
+"start": 698.529,
+"end": 709.77,
+"flag": "converted from RefSeq v2.1"
+}
+}
+},
+{
+"id": "NK0002",
+"cls": "QTL",
+"curation": "hand",
+"name": "Stripe rust locus, A. cristatum 6PS (0.81–1.00)",
+"disease": "Stripe rust",
+"chr": "6D",
+"source": "Zhang2017IJMS",
+"marker": "29 6P-specific STS markers (e.g. Agc4527, Agc37790, Agc21670, Agc2970)",
+"pve": "",
+"stat": "",
+"evidence": "Table 1, Table 4, Fig. 6: resistant lines carry 6PS (0.53–1.00), (0.59–1.00), (0.81–1.00) and (0.86–1.00); deletions retaining 6PS (0.00–0.81) are susceptible; locus assigned to bin 6PS (0.81–1.00) of WAT655",
+"start": null,
+"end": null,
+"peak": null,
+"ref": "RefSeq v2.1",
+"grade": "D",
+"note": "Alien locus from Agropyron cristatum (accession Z559) chromosome 6P, located on the terminal part of 6PS (fraction length 0.81–1.00) with wheat–A. cristatum translocation and deletion lines (GISH and 6P-specific STS markers); effective against Pst races CYR32 and CYR33. Line WAT655 carries the segment as a compensating 6DS·6DL-6PS translocation (recorded here on 6D); WAT646 carries 6PS (0.86–1.00) on 1BS (1BL·1BS-6PS). The locus is on an alien chromosome with no RefSeq coordinates, so it is kept as a bin-only record and not drawn. Hand-curated from the original paper, Nov 2026 (ad63).",
+"asm": {
+"RefSeq v2.1": {
+"chr": "6D",
+"flag": "alien segment, bin only"
+}
+}
+},
+{
+"id": "V2238",
+"name": "Yr34",
+"cls": "DG",
+"disease": "Stripe rust",
+"chr": "5A",
+"start": null,
+"end": null,
+"peak": 660.7349,
+"ref": "RefSeq v2.1",
+"marker": "Xgwm410",
+"pve": "",
+"stat": "",
+"source": "Tong2024TAG",
+"grade": "D",
+"note": "Rust resistance locus compiled and anchored to IWGSC RefSeq v2.1 by Tong et al. (2024), Table S2. Original study: Bariana et al. 2006; donor WAWHT2046. The compilation gives a single anchor point, not an interval. Superseded Nov 2026 (ad63): Bariana et al. (2006) place Yr34 distal to the awn inhibitor B1, not at Xgwm410; see record NK0001 (hand-curated from the original paper). Kept as a bin-only record so the compilation entry is not drawn twice.",
+"curation": "auto",
+"evidence": "Reported name Yr34; marker Xgwm410; 5A 660.734889 Mb",
+"asm": {
+"RefSeq v1.0": {
+"chr": "5A",
+"flag": "converted from RefSeq v2.1",
+"peak": 659.13
+},
+"RefSeq v2.1": {
+"chr": "5A",
+"peak": 660.7349,
+"flag": "as_reported"
+},
+"Alchemy": {
+"chr": "5A",
+"flag": "ok",
+"peak": 530.875
+},
+"ArinaLrFor": {
+"chr": "5A",
+"flag": "ok",
+"peak": 656.378
+},
+"Jagger": {
+"chr": "5A",
+"flag": "ok",
+"peak": 660.896
+},
+"Julius": {
+"chr": "5A",
+"flag": "ok",
+"peak": 656.686
+},
+"Kariega": {
+"chr": "5A",
+"flag": "ok",
+"peak": 661.823
+},
+"Lancer": {
+"chr": "5A",
+"flag": "ok",
+"peak": 653.288
+},
+"Landmark": {
+"chr": "5A",
+"flag": "ok",
+"peak": 660.298
+},
+"Mace": {
+"chr": "5A",
+"flag": "ok",
+"peak": 651.149
+},
+"SY Mattis": {
+"chr": "5A",
+"flag": "ok",
+"peak": 648.805
+},
+"Norin 61": {
+"chr": "5A",
+"flag": "ok",
+"peak": 661.243
+},
+"Paragon": {
+"chr": "5A",
+"flag": "inverted",
+"peak": 55.628
+},
+"Renan": {
+"chr": "5A",
+"flag": "ok",
+"peak": 661.829
+},
+"Stanley": {
+"chr": "5A",
+"flag": "ok",
+"peak": 661.837
+}
+}
+},
+{
+"id": "K0214",
+"cls": "DG",
+"ref": "RefSeq v2.1",
+"curation": "hand",
+"name": "Yr34 (map)",
+"disease": "Stripe rust",
+"chr": "5A",
+"source": "CGS_10040",
+"evidence": "Catalogue of Gene Symbols for Wheat 2007 Supplement {10040}",
+"marker": "Xgwm410",
+"peak": 660.7349,
+"grade": "D",
+"note": "Xgwm410.2-5A – 8.2 cM – B1 – 12.2 cM – Yr34. The listed markers place loosely, so the position of Yr34 (V2238) is used. Read from the Catalogue of Gene Symbols for Wheat 2007 Supplement, Nov 2026 (ad56.py). Audit, Nov 2026 (ad60.py): coordinates are those of V2238 on RefSeq v2.1; reference assembly corrected from RefSeq v1.0. Superseded Nov 2026 (ad63): Bariana et al. (2006) place Yr34 distal to the awn inhibitor B1, not at Xgwm410; see record NK0001 (hand-curated from the original paper). Kept as a bin-only record so the compilation entry is not drawn twice.",
+"asm": {
+"RefSeq v2.1": {
+"chr": "5A",
+"flag": "as_reported",
+"peak": 660.7349
+},
+"RefSeq v1.0": {
+"chr": "5A",
+"flag": "converted from RefSeq v2.1",
+"peak": 659.13
+},
+"Alchemy": {
+"chr": "5A",
+"peak": 530.88,
+"flag": "ok"
+},
+"ArinaLrFor": {
+"chr": "5A",
+"peak": 656.405,
+"flag": "ok"
+},
+"Jagger": {
+"chr": "5A",
+"peak": 660.904,
+"flag": "ok"
+},
+"Julius": {
+"chr": "5A",
+"peak": 656.686,
+"flag": "ok"
+},
+"Kariega": {
+"chr": "5A",
+"peak": 661.771,
+"flag": "ok"
+},
+"Lancer": {
+"chr": "5A",
+"peak": 653.296,
+"flag": "ok"
+},
+"Landmark": {
+"chr": "5A",
+"peak": 660.265,
+"flag": "ok"
+},
+"Mace": {
+"chr": "5A",
+"peak": 651.133,
+"flag": "ok"
+},
+"SY Mattis": {
+"chr": "5A",
+"peak": 648.835,
+"flag": "ok"
+},
+"Norin 61": {
+"chr": "5A",
+"peak": 661.24,
+"flag": "ok"
+},
+"Paragon": {
+"chr": "5A",
+"peak": 876.671,
+"flag": "wide_gap"
+},
+"Renan": {
+"chr": "5A",
+"peak": 661.812,
+"flag": "ok"
+},
+"Stanley": {
+"chr": "5A",
+"peak": 661.798,
+"flag": "ok"
+}
+},
+"start": null,
+"end": null
+}
+],
+"sources": {
+"Bariana2006TAG": {
+"citation": "Bariana HS, Parry N, Barclay IR, Loughman R, McLean RJ, Shankar M, Wilson RE, Willey NJ, Francki M (2006) Identification and characterization of stripe rust resistance gene Yr34 in common wheat. Theoretical and Applied Genetics 112: 1143–1148",
+"short": "Bariana et al. (2006)",
+"url": "https://doi.org/10.1007/s00122-006-0216-3"
+},
+"Zhang2017IJMS": {
+"citation": "Zhang Z, Song L, Han H, Zhou S, Zhang J, Yang X, Li X, Liu W, Li L (2017) Physical localization of a locus from Agropyron cristatum conferring resistance to stripe rust in common wheat. International Journal of Molecular Sciences 18: 2403",
+"short": "Zhang et al. (2017)",
+"url": "https://doi.org/10.3390/ijms18112403"
+}
+},
+"deleted": []
+}

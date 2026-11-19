@@ -1,0 +1,19 @@
+{
+  "title": "WheatTraitMap: A Trait Discovery Atlas for Wheat",
+  "upload_type": "dataset",
+  "description": "<p>WheatTraitMap is a physical genomic atlas and web database of wheat trait loci (QTL, marker-trait associations, QTN and genes) curated from the published literature, with positions on IWGSC RefSeq v1.0, v2.1 and 15 pangenome assemblies, and online tools for meta-QTL and meta-GWAS analysis, marker lookup, primer design, gene and expression analysis, GO/KEGG enrichment and gene networks.</p><p>This archive holds the complete website (folder <code>web/</code>), the curation material (<code>curation/</code>), data files (<code>data/</code>) and processing scripts (<code>scripts/</code>) for the release named in the version field. Live website: https://neerajvasistha-netize.github.io/WheatNHR-Atlas/ (mirror: https://wheattraitmap.neeraj-vasistha.workers.dev/).</p><p>Locus information is drawn from the published studies cited in each record; please also cite the original study for any locus you use.</p>",
+  "creators": [
+    {
+      "name": "Vasistha, Neeraj Kumar",
+      "affiliation": "Plant Genomics Lab, Department of Genetics and Plant Breeding, Rajiv Gandhi University, Itanagar, Arunachal Pradesh, India",
+      "orcid": "0000-0001-5527-340X"
+    }
+  ],
+  "keywords": ["wheat", "Triticum aestivum", "QTL", "GWAS", "disease resistance", "meta-QTL", "pangenome", "genomic atlas", "database", "marker-trait association"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "https://neerajvasistha-netize.github.io/WheatNHR-Atlas/", "relation": "isSupplementedBy", "resource_type": "other"}
+  ]
+}

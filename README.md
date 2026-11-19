@@ -2,7 +2,8 @@
 
 A physical genomic atlas and web database of wheat disease resistance loci (WheatRLA, Wheat Resistance Loci Atlas).
 
-**Website:** https://neerajvasistha-netize.github.io/WheatNHR-Atlas/
+**Website:** https://neerajvasistha-netize.github.io/WheatNHR-Atlas/  
+**Mirror (identical content, auto-updated from this repository):** https://wheattraitmap.neeraj-vasistha.workers.dev/
 
 Maintained by **Neeraj Kumar Vasistha**, Molecular Plant Biology Lab, Department of Genetics and
 Plant Breeding, Rajiv Gandhi University, Rono Hills, Itanagar, Arunachal Pradesh 791112, India.

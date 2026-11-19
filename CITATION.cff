@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use WheatTraitMap, please cite it as below, and cite the original study for any locus you use."
+title: "WheatTraitMap: A Trait Discovery Atlas for Wheat"
+type: dataset
+authors:
+  - family-names: Vasistha
+    given-names: Neeraj Kumar
+    orcid: "https://orcid.org/0000-0001-5527-340X"
+    affiliation: "Plant Genomics Lab, Department of Genetics and Plant Breeding, Rajiv Gandhi University, Itanagar, India"
+    email: neeraj.vasistha@rgu.ac.in
+url: "https://neerajvasistha-netize.github.io/WheatNHR-Atlas/"
+repository-code: "https://github.com/neerajvasistha-netize/WheatNHR-Atlas"
+license: CC-BY-4.0
+keywords: [wheat, QTL, GWAS, disease resistance, genomic atlas, database]
